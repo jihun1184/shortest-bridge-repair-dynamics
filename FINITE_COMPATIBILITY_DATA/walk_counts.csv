@@ -1,0 +1,4 @@
+L,universe_size_U_L,m0,M0_size,verification_method
+3,20,3,36,fresh_exhaustive
+4,24,4,108,lower_sizes_exhaustive_plus_walk_generation
+5,,5,324,walk_generation_plus_frozen_exact_equality

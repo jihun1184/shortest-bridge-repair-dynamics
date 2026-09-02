@@ -1,0 +1,787 @@
+{
+  "claim_boundary": "Defines and proves the formal all-k voxel geometry only; reachability and behavioral-class membership for k>8 remain open.",
+  "class_count": 53,
+  "classes": [
+    {
+      "class_id": "C001",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T07",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C002",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C003",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T05",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C004",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T06",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C005",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T08",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C006",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T10",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C007",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T11",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C008",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T16",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C009",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T01",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C010",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T03",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C011",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T02",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C012",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T05",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C013",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T05",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C014",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T15",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C015",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T13",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C016",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T18",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C017",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T16",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C018",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T01",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C019",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T01",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C020",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T01",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C021",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C022",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C023",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C024",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C025",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C026",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C027",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C028",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T05",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C029",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T06",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C030",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T09",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C031",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T17",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C032",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T04",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C033",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T04",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C034",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T03",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C035",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C036",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C037",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C038",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C039",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C040",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C041",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C042",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C043",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C044",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C045",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C046",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C047",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C048",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T15",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C049",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T05",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C050",
+      "corridor_law": "k-6",
+      "fixed_endpoint_x": -6,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T14",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C051",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T01",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C052",
+      "corridor_law": "k-4",
+      "fixed_endpoint_x": -4,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T04",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    },
+    {
+      "class_id": "C053",
+      "corridor_law": "0",
+      "fixed_endpoint_x": null,
+      "regression_failures": [],
+      "remainder_x_ge_minus_4": true,
+      "template_id": "T12",
+      "tested_k_range": [
+        6,
+        100
+      ]
+    }
+  ],
+  "corridor_law_counts": {
+    "0": 22,
+    "k-4": 30,
+    "k-6": 1
+  },
+  "failures": [],
+  "regression_class_k_cases": 5035,
+  "regression_k_range": [
+    6,
+    100
+  ],
+  "scope": "symbolic local-condition audit plus finite regression; no closure enumeration",
+  "special_family": {
+    "class_id": "C050",
+    "template_id": "T14"
+  },
+  "template_count": 18,
+  "template_local_checks": [
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T01"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T02"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T03"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T04"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T05"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T06"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T07"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T08"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T09"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T10"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T11"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T12"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T13"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T14"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T15"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T16"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T17"
+    },
+    {
+      "attachment_6_connected": true,
+      "endpoint_patch_6_connected": true,
+      "line_start_in_attachment": true,
+      "origin_in_attachment": true,
+      "template_id": "T18"
+    }
+  ]
+}

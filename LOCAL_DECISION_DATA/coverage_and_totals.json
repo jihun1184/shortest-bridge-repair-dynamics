@@ -1,0 +1,25 @@
+{
+  "scope": {
+    "classes": 37058,
+    "dynamic_branch_classes": 293,
+    "formerly_mixed_buckets": 4,
+    "pure_branch_classes": 36765,
+    "pure_false_buckets": 113,
+    "rho_R_buckets": 117,
+    "sources": 10
+  },
+  "coverage": {
+    "constant_false_classes": 36765,
+    "constant_false_fraction": 0.9920934750930973,
+    "dynamic_classes": 293,
+    "dynamic_fraction": 0.007906524906902693
+  },
+  "predicted_totals": {
+    "diagnostic_local_incompatible": 40,
+    "diagnostic_no_geometry_and_local_incompatible": 37018,
+    "geometry_false": 37018,
+    "geometry_true": 40,
+    "supported_true": 0
+  },
+  "source": "Certified finite local-decision data included in Online Resource 1."
+}

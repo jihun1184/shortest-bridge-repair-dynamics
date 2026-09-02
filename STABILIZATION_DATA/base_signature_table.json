@@ -1,0 +1,7465 @@
+{
+  "claim_boundary": "Does not establish reachability or behavioral-class membership for k>8.",
+  "classes": [
+    {
+      "behavioral_key_sha256": "76d188480328b7558763f38906629cb257cb48f400d674108ca2416bf2850a57",
+      "class_id": "C001",
+      "compatible_template_ids": [
+        "T07"
+      ],
+      "fixed_remainder": [],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 18,
+        "7": 19,
+        "8": 20
+      },
+      "selected_template_id": "T07",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "0dde5ea11b1dafe1d31e4994fd27a5fd20b62c64b5d941e5dad3f9f56622771f",
+      "class_id": "C002",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          -1,
+          -1
+        ],
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          0
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 16,
+        "8": 16
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "99c34e399b2c2f5db3ee18e07ecd9435d0e4ff7fdc0edd1b1e4dd96752557f0d",
+      "class_id": "C003",
+      "compatible_template_ids": [
+        "T05"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 15,
+        "7": 16,
+        "8": 17
+      },
+      "selected_template_id": "T05",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "e1ae4e31cecd4e494d78fa384f5c9d709e8088868d777111ef059b66d362edd0",
+      "class_id": "C004",
+      "compatible_template_ids": [
+        "T06"
+      ],
+      "fixed_remainder": [
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 17,
+        "7": 18,
+        "8": 19
+      },
+      "selected_template_id": "T06",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "b6b7bd81ea382c5022acfa2f14b1e589b08d4632d99b4e7451027b0f9cfb0eff",
+      "class_id": "C005",
+      "compatible_template_ids": [
+        "T08"
+      ],
+      "fixed_remainder": [
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 17,
+        "8": 18
+      },
+      "selected_template_id": "T08",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "153cc77eb14d4c7de43a79eec2e681bc9eb99c2cccfba1cb2e33c25ef48b4c18",
+      "class_id": "C006",
+      "compatible_template_ids": [
+        "T10"
+      ],
+      "fixed_remainder": [
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 18,
+        "7": 19,
+        "8": 20
+      },
+      "selected_template_id": "T10",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "2868be38337a822923b3e6b1894471146733d8f58552971b40893c421efc9861",
+      "class_id": "C007",
+      "compatible_template_ids": [
+        "T11"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 17,
+        "7": 18,
+        "8": 19
+      },
+      "selected_template_id": "T11",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "5cb7a047af097bb981fe640bf6254340528a58854357c1ed807420a0d5238c1f",
+      "class_id": "C008",
+      "compatible_template_ids": [
+        "T16"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 17,
+        "7": 18,
+        "8": 19
+      },
+      "selected_template_id": "T16",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "f353bb518b44b60d52a2e0cf7b8aa13047e7249f1b389afa5768c34c51f84107",
+      "class_id": "C009",
+      "compatible_template_ids": [
+        "T01"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          1,
+          -1
+        ],
+        [
+          -2,
+          1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 21,
+        "7": 22,
+        "8": 23
+      },
+      "selected_template_id": "T01",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "b38cd107754ec1d414d9d7b803f4267f59f04cc9c49e4f92c599721caffe1d3b",
+      "class_id": "C010",
+      "compatible_template_ids": [
+        "T03"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -4,
+          2,
+          -1
+        ],
+        [
+          -3,
+          2,
+          -1
+        ],
+        [
+          -2,
+          2,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 22,
+        "7": 23,
+        "8": 24
+      },
+      "selected_template_id": "T03",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "c2a8e8d8528e55f543aad56383e0257f9f222eb2f922e1604eaec34639e91407",
+      "class_id": "C011",
+      "compatible_template_ids": [
+        "T02"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 19,
+        "7": 20,
+        "8": 21
+      },
+      "selected_template_id": "T02",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "4605d87bc9b0478fa9aea066cf0181fad946f068d3cce1cbde618c30ea8688c2",
+      "class_id": "C012",
+      "compatible_template_ids": [
+        "T05"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 14,
+        "7": 15,
+        "8": 16
+      },
+      "selected_template_id": "T05",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "75a2d725f74b68a31d6a0996d01db5dc41d02f9644e89a7f19dcb665ea81f2e8",
+      "class_id": "C013",
+      "compatible_template_ids": [
+        "T05"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          1,
+          -1
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 14,
+        "7": 15,
+        "8": 16
+      },
+      "selected_template_id": "T05",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "92737f7eca6fa0d09dfe98344654852adcb91520566adc3d5b32efddf59745e2",
+      "class_id": "C014",
+      "compatible_template_ids": [
+        "T15"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 14,
+        "8": 15
+      },
+      "selected_template_id": "T15",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "f51b3c85ecd9a5e6699350bf7e8834b96e8408f1d75653ec9f77a36a8dbf2a58",
+      "class_id": "C015",
+      "compatible_template_ids": [
+        "T13"
+      ],
+      "fixed_remainder": [
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 15,
+        "7": 16,
+        "8": 17
+      },
+      "selected_template_id": "T13",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "cdd2e1db691be348faa34a84aa4249642f2771e28501c10c0ddcda6d4962c20b",
+      "class_id": "C016",
+      "compatible_template_ids": [
+        "T18"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 17,
+        "8": 18
+      },
+      "selected_template_id": "T18",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "7e164ef997d343a40d06742d3f06a3b39d243a0b0755c7fb6ed490394be9cbd7",
+      "class_id": "C017",
+      "compatible_template_ids": [
+        "T16"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 17,
+        "8": 18
+      },
+      "selected_template_id": "T16",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "70e6477cbb955af0c4e5ce7496abddc6af0d94c90c2452c4b00af2d24a4c359b",
+      "class_id": "C018",
+      "compatible_template_ids": [
+        "T01"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 18,
+        "7": 19,
+        "8": 20
+      },
+      "selected_template_id": "T01",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "a0c980fead212068ceedb3074cd045e6cf65dd9d9f0dab3745ad34afec5cc07f",
+      "class_id": "C019",
+      "compatible_template_ids": [
+        "T01"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          1,
+          -1
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 18,
+        "7": 19,
+        "8": 20
+      },
+      "selected_template_id": "T01",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "5a6faff1d00e553d5d342c75a38e9f6ba1d5a3d9ce5a384ac174bd95c844135f",
+      "class_id": "C020",
+      "compatible_template_ids": [
+        "T01"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -4,
+          2,
+          -1
+        ],
+        [
+          -3,
+          2,
+          -1
+        ],
+        [
+          -2,
+          2,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 21,
+        "7": 22,
+        "8": 23
+      },
+      "selected_template_id": "T01",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "8d62afcbcdd2b2cd3be78cb8a4cf8d48c1b0a7468e29a89490e6d6ec31c38cf2",
+      "class_id": "C021",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          1,
+          -1
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 13,
+        "8": 13
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "7b324750469636fbc3ba9d5a2d4d6ebd5f1b712692ab042dba59aa6cf42c295d",
+      "class_id": "C022",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 13,
+        "8": 13
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "3217d196c611b9cace92beb37d3dcf7b1b1699ac7f5f9a359f39a2281ceb84af",
+      "class_id": "C023",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          -1,
+          -1
+        ],
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          0
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 15,
+        "7": 15,
+        "8": 15
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "5d38f08fd1222cdd24c7fe9b5ebc09581ba45dad617e4bcfeef2de0e9314f080",
+      "class_id": "C024",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          -1,
+          -1
+        ],
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          0
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 14,
+        "7": 14,
+        "8": 14
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "9e983f469c07885b872c2d9c50fe4595dfb5444b1d8279141b732e1bc17b149d",
+      "class_id": "C025",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          0,
+          -1
+        ],
+        [
+          -3,
+          1,
+          -1
+        ],
+        [
+          -3,
+          2,
+          -1
+        ],
+        [
+          -2,
+          2,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 16,
+        "8": 16
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "2699e5b5b7dc71bfb5ecc591bbf4f0b50196d8b1031efe7a837be73dc9d2734a",
+      "class_id": "C026",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          1,
+          -1
+        ],
+        [
+          -2,
+          1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 15,
+        "7": 15,
+        "8": 15
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "f8d551da94ed249ea7cc54740150895c99f97e7fc1e6875cf0111f437f16a18a",
+      "class_id": "C027",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -4,
+          2,
+          -1
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          2,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          2,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 16,
+        "8": 16
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "5aea6bd25c1ce4610e1cdf5af4f1bf6e15a035ed073a9546178b066c821b5c91",
+      "class_id": "C028",
+      "compatible_template_ids": [
+        "T05"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 14,
+        "8": 15
+      },
+      "selected_template_id": "T05",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "29944c2db55da5c098dc03b2f426de602524f181ea24e9cd2b62239ba338c39f",
+      "class_id": "C029",
+      "compatible_template_ids": [
+        "T06"
+      ],
+      "fixed_remainder": [
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 15,
+        "7": 16,
+        "8": 17
+      },
+      "selected_template_id": "T06",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "8624388caa64fdd8377809c58a8834f881d91b64e50baa37220dfcd6bd12af05",
+      "class_id": "C030",
+      "compatible_template_ids": [
+        "T09"
+      ],
+      "fixed_remainder": [
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 15,
+        "7": 16,
+        "8": 17
+      },
+      "selected_template_id": "T09",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "9f6c53634a8207ca6d14f2ad3f5d819fe0035e636daa4c6a42630f6fe6aef16f",
+      "class_id": "C031",
+      "compatible_template_ids": [
+        "T17"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 17,
+        "8": 18
+      },
+      "selected_template_id": "T17",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "b0bd57a54b9097064b189dff81f4081bd8312a16d8d744bc8daf6e9c64a93c4c",
+      "class_id": "C032",
+      "compatible_template_ids": [
+        "T04"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 18,
+        "7": 19,
+        "8": 20
+      },
+      "selected_template_id": "T04",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "9136cefbce211f2721b1bfa8b72856622a54025064d4c69a4e066a6037e29052",
+      "class_id": "C033",
+      "compatible_template_ids": [
+        "T04"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          1,
+          -1
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 18,
+        "7": 19,
+        "8": 20
+      },
+      "selected_template_id": "T04",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "635597ac05cfa4692f1de36a5e7a69155ce548808c5b9aadeff1cfaeb77da48c",
+      "class_id": "C034",
+      "compatible_template_ids": [
+        "T03"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 17,
+        "7": 18,
+        "8": 19
+      },
+      "selected_template_id": "T03",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "dad0157373249f4b0cdba7ceca281c5460387123a9a1923cce4e6ed8500a2eab",
+      "class_id": "C035",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          1,
+          -1
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 12,
+        "7": 12,
+        "8": 12
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "3f412928c4d71b50bdeb0a2f0c9f0c3dfa8c71831c9e2b003b3011aeba10951f",
+      "class_id": "C036",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 12,
+        "7": 12,
+        "8": 12
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "ddf20204a1dcf888512b58ffb2774b5de323a9ed73ab84914024297a13eb45ea",
+      "class_id": "C037",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          1,
+          -1
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 12,
+        "7": 12,
+        "8": 12
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "ec1f11a0a563afc65fa614492e0fe123ad752d1e1a147f9fb167b3f564cd913f",
+      "class_id": "C038",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -2,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 11,
+        "7": 11,
+        "8": 11
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "20c22a9c89129032124a0fb943a85860988450048f77aba42eda7e0e4a2adad0",
+      "class_id": "C039",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          0
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          -1,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 13,
+        "8": 13
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "30a9f91edefa38540296ee2b926451f84e43ebd6b0b3227afab42067804974f5",
+      "class_id": "C040",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          -1,
+          -1
+        ],
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          0
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 13,
+        "8": 13
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "3d9ae4a44bd0a5abebfbb531a250f1191fa9fc2927350fb3ca04ca2c3f6a4338",
+      "class_id": "C041",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          0,
+          -1
+        ],
+        [
+          -3,
+          1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 13,
+        "8": 13
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "472bd06e601b45ea93694f7691b9e92376654bee52487fcbe5bfc5ccd13b048b",
+      "class_id": "C042",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          0,
+          -1
+        ],
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          0,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 13,
+        "8": 13
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "887ef3aaa29e847a72ccf3a7c8d94bc3dcdc17764043d9542b519f42628c5b3f",
+      "class_id": "C043",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          -1,
+          -1
+        ],
+        [
+          -4,
+          0,
+          -1
+        ],
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 13,
+        "8": 13
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "6be400c6044edf249227b02bd0c5c3e8cc4941de94dc6608cb471f7421875a1c",
+      "class_id": "C044",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          0,
+          -1
+        ],
+        [
+          -4,
+          0,
+          0
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          0,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 13,
+        "7": 13,
+        "8": 13
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "9278ad99811a9fcc2bbf6fc405dae2d9f60edbe6ea93b2d67c8727dcb5120918",
+      "class_id": "C045",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          -1
+        ],
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -4,
+          2,
+          -1
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          2,
+          -1
+        ],
+        [
+          -2,
+          2,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 15,
+        "7": 15,
+        "8": 15
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "a7fd5c40c774fc342d89c1a710a2191c293df4fecff7229ee2907a016e4dc88a",
+      "class_id": "C046",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -4,
+          2,
+          -1
+        ],
+        [
+          -4,
+          2,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          2,
+          -1
+        ],
+        [
+          -2,
+          2,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 15,
+        "7": 15,
+        "8": 15
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "cfa96105d86966ae5fafaf1d987ec49219e056a2b8d83e51ed22d9cdff7e9b97",
+      "class_id": "C047",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -4,
+          2,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          2,
+          0
+        ],
+        [
+          -2,
+          2,
+          -1
+        ],
+        [
+          -2,
+          2,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 15,
+        "7": 15,
+        "8": 15
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "bb847508805bfa33e3a34f9d27cd335f0a095c934848a4040741ec1367b5ed37",
+      "class_id": "C048",
+      "compatible_template_ids": [
+        "T15"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 12,
+        "7": 13,
+        "8": 14
+      },
+      "selected_template_id": "T15",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            2,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "25054312bd02f3d767025fca359df24eaa57adac9b809040929e1bdc7a05e497",
+      "class_id": "C049",
+      "compatible_template_ids": [
+        "T05"
+      ],
+      "fixed_remainder": [
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 12,
+        "7": 13,
+        "8": 14
+      },
+      "selected_template_id": "T05",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "4abd9a03e227e5246c1c79739c397e1ef31e1b1b0e72246a4580a0d8cf26d56a",
+      "class_id": "C050",
+      "compatible_template_ids": [
+        "T14"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 17,
+        "8": 18
+      },
+      "selected_template_id": "T14",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 1,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "8301e0c7394fba70beaea77ecd4d3ba0e64d9f436b7ec795a921c216c4385b94",
+      "class_id": "C051",
+      "compatible_template_ids": [
+        "T01"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 17,
+        "8": 18
+      },
+      "selected_template_id": "T01",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            -1
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            -1
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "001ead72d32a9627d0d0ff853d2248a38d04d60ae4949d16c086379238c04679",
+      "class_id": "C052",
+      "compatible_template_ids": [
+        "T04"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 16,
+        "7": 17,
+        "8": 18
+      },
+      "selected_template_id": "T04",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            0
+          ],
+          "corridor_length": 2,
+          "corridor_start": [
+            -6,
+            -1,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            0
+          ],
+          "corridor_length": 3,
+          "corridor_start": [
+            -7,
+            -1,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -4,
+            -1,
+            0
+          ],
+          "corridor_length": 4,
+          "corridor_start": [
+            -8,
+            -1,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "behavioral_key_sha256": "9fafc4be91909afea4d7eef91bc3a5ba97fd1371af94bff317e26d413a403271",
+      "class_id": "C053",
+      "compatible_template_ids": [
+        "T12"
+      ],
+      "fixed_remainder": [
+        [
+          -4,
+          1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ],
+      "fixed_remainder_equal": true,
+      "reconstruction_ok": true,
+      "representative_sizes": {
+        "6": 10,
+        "7": 10,
+        "8": 10
+      },
+      "selected_template_id": "T12",
+      "selected_template_witnesses": {
+        "6": {
+          "corridor_endpoint": [
+            -6,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -6,
+            2,
+            0
+          ],
+          "satellite": [
+            -6,
+            2,
+            0
+          ]
+        },
+        "7": {
+          "corridor_endpoint": [
+            -7,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -7,
+            2,
+            0
+          ],
+          "satellite": [
+            -7,
+            2,
+            0
+          ]
+        },
+        "8": {
+          "corridor_endpoint": [
+            -8,
+            2,
+            0
+          ],
+          "corridor_length": 0,
+          "corridor_start": [
+            -8,
+            2,
+            0
+          ],
+          "satellite": [
+            -8,
+            2,
+            0
+          ]
+        }
+      }
+    }
+  ],
+  "classes_with_common_template": 53,
+  "closure_sizes": {
+    "6": 9524,
+    "7": 21963,
+    "8": 45939
+  },
+  "common_behavioral_classes": 53,
+  "component_reconstruction_failures": [],
+  "fixed_remainder_consistent_classes": 53,
+  "fixed_remainder_failures": [],
+  "ks": [
+    6,
+    7,
+    8
+  ],
+  "scope": "finite certification on canonical representatives for k=6,7,8",
+  "templates": [
+    {
+      "attachment_shape": [
+        [
+          0,
+          -3,
+          -1
+        ],
+        [
+          0,
+          -3,
+          0
+        ],
+        [
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C009",
+        "C018",
+        "C019",
+        "C020",
+        "C051"
+      ],
+      "line_offset": [
+        0,
+        -3,
+        -1
+      ],
+      "patch_shape": [
+        [
+          1,
+          0,
+          0
+        ]
+      ],
+      "template_id": "T01"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -3,
+          -1
+        ],
+        [
+          0,
+          -3,
+          0
+        ],
+        [
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C011"
+      ],
+      "line_offset": [
+        0,
+        -3,
+        -1
+      ],
+      "patch_shape": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          1
+        ],
+        [
+          3,
+          1,
+          0
+        ],
+        [
+          3,
+          1,
+          1
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          4,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          1
+        ],
+        [
+          4,
+          3,
+          0
+        ]
+      ],
+      "template_id": "T02"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -3,
+          -1
+        ],
+        [
+          0,
+          -3,
+          0
+        ],
+        [
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C010",
+        "C034"
+      ],
+      "line_offset": [
+        0,
+        -3,
+        -1
+      ],
+      "patch_shape": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          1
+        ],
+        [
+          3,
+          1,
+          0
+        ],
+        [
+          3,
+          1,
+          1
+        ],
+        [
+          4,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          1
+        ]
+      ],
+      "template_id": "T03"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -3,
+          0
+        ],
+        [
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C032",
+        "C033",
+        "C052"
+      ],
+      "line_offset": [
+        0,
+        -3,
+        0
+      ],
+      "patch_shape": [
+        [
+          1,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          0
+        ]
+      ],
+      "template_id": "T04"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C003",
+        "C012",
+        "C013",
+        "C028",
+        "C049"
+      ],
+      "line_offset": [
+        0,
+        -1,
+        0
+      ],
+      "patch_shape": [],
+      "template_id": "T05"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C004",
+        "C029"
+      ],
+      "line_offset": [
+        0,
+        -1,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -2,
+          -1
+        ],
+        [
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          -2,
+          -1
+        ]
+      ],
+      "template_id": "T06"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C001"
+      ],
+      "line_offset": [
+        0,
+        -1,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -2,
+          -1
+        ],
+        [
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          -2,
+          -1
+        ],
+        [
+          2,
+          -2,
+          -1
+        ],
+        [
+          3,
+          -2,
+          -1
+        ],
+        [
+          3,
+          -2,
+          0
+        ],
+        [
+          3,
+          -1,
+          -1
+        ],
+        [
+          3,
+          -1,
+          0
+        ],
+        [
+          3,
+          0,
+          -1
+        ],
+        [
+          3,
+          1,
+          -1
+        ],
+        [
+          4,
+          -2,
+          -1
+        ],
+        [
+          4,
+          -2,
+          0
+        ],
+        [
+          4,
+          1,
+          -1
+        ]
+      ],
+      "template_id": "T07"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C005"
+      ],
+      "line_offset": [
+        0,
+        -1,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -2,
+          -1
+        ],
+        [
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          -2,
+          -1
+        ],
+        [
+          2,
+          -2,
+          -1
+        ],
+        [
+          3,
+          -2,
+          -1
+        ],
+        [
+          3,
+          -2,
+          0
+        ],
+        [
+          3,
+          -1,
+          -1
+        ],
+        [
+          3,
+          -1,
+          0
+        ],
+        [
+          4,
+          -2,
+          -1
+        ],
+        [
+          4,
+          -2,
+          0
+        ]
+      ],
+      "template_id": "T08"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C030"
+      ],
+      "line_offset": [
+        0,
+        -1,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          -2,
+          -1
+        ],
+        [
+          1,
+          -1,
+          -1
+        ]
+      ],
+      "template_id": "T09"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C006"
+      ],
+      "line_offset": [
+        0,
+        -1,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          -2,
+          -1
+        ],
+        [
+          1,
+          -1,
+          -1
+        ],
+        [
+          1,
+          0,
+          -1
+        ],
+        [
+          1,
+          1,
+          -1
+        ],
+        [
+          2,
+          1,
+          -1
+        ],
+        [
+          3,
+          1,
+          -1
+        ],
+        [
+          4,
+          1,
+          -1
+        ]
+      ],
+      "template_id": "T10"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C007"
+      ],
+      "line_offset": [
+        0,
+        -1,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          -1
+        ],
+        [
+          2,
+          0,
+          -1
+        ],
+        [
+          3,
+          -2,
+          -1
+        ],
+        [
+          3,
+          -2,
+          0
+        ],
+        [
+          3,
+          -1,
+          -1
+        ],
+        [
+          3,
+          -1,
+          0
+        ],
+        [
+          3,
+          0,
+          -1
+        ],
+        [
+          3,
+          1,
+          -1
+        ],
+        [
+          4,
+          -2,
+          -1
+        ],
+        [
+          4,
+          -2,
+          0
+        ],
+        [
+          4,
+          1,
+          -1
+        ]
+      ],
+      "template_id": "T11"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C002",
+        "C021",
+        "C022",
+        "C023",
+        "C024",
+        "C025",
+        "C026",
+        "C027",
+        "C035",
+        "C036",
+        "C037",
+        "C038",
+        "C039",
+        "C040",
+        "C041",
+        "C042",
+        "C043",
+        "C044",
+        "C045",
+        "C046",
+        "C047",
+        "C053"
+      ],
+      "line_offset": [
+        0,
+        0,
+        0
+      ],
+      "patch_shape": [],
+      "template_id": "T12"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C015"
+      ],
+      "line_offset": [
+        0,
+        0,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -3,
+          -1
+        ],
+        [
+          0,
+          -3,
+          0
+        ],
+        [
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          -3,
+          -1
+        ]
+      ],
+      "template_id": "T13"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C050"
+      ],
+      "line_offset": [
+        0,
+        0,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -3,
+          -1
+        ],
+        [
+          0,
+          -2,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          -3,
+          -1
+        ],
+        [
+          2,
+          -3,
+          -1
+        ],
+        [
+          3,
+          -3,
+          -1
+        ]
+      ],
+      "template_id": "T14"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C014",
+        "C048"
+      ],
+      "line_offset": [
+        0,
+        0,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "template_id": "T15"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C008",
+        "C017"
+      ],
+      "line_offset": [
+        0,
+        0,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          -1
+        ],
+        [
+          2,
+          0,
+          -1
+        ],
+        [
+          3,
+          0,
+          -1
+        ],
+        [
+          4,
+          0,
+          -1
+        ]
+      ],
+      "template_id": "T16"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C031"
+      ],
+      "line_offset": [
+        0,
+        0,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          -1
+        ],
+        [
+          2,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          -1
+        ],
+        [
+          4,
+          0,
+          -1
+        ]
+      ],
+      "template_id": "T17"
+    },
+    {
+      "attachment_shape": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "compatible_class_ids": [
+        "C016"
+      ],
+      "line_offset": [
+        0,
+        0,
+        0
+      ],
+      "patch_shape": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          -1
+        ],
+        [
+          3,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          -1
+        ]
+      ],
+      "template_id": "T18"
+    }
+  ],
+  "witnessed_template_count": 18
+}

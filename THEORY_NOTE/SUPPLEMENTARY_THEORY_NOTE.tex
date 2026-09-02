@@ -1,0 +1,235 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=28mm]{geometry}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{microtype}
+\usepackage{hyperref}
+\newcommand{\Comp}{\operatorname{Comp}_6}
+\newcommand{\pwc}{\operatorname{pwc}}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\title{Supplementary Theory Note\\\large Full Atomic Language and Finite Compatibility in Short Chain Families}
+\author{Jihun Bae \and Yeonho Bae \and Jinglu Hu}
+\date{}
+\begin{document}
+\maketitle
+\noindent This note accompanies ``Exact Stabilization and Local Decision Structure in Shortest-Bridge Repair Dynamics.'' It records the complementary N1/N2 atomic language and the finite short-chain compatibility theory. Notation and the Q2/Q3 mask-locality principle are as defined in the article.
+
+\section{Full Atomic Language}
+
+\begin{definition}[N1 action]\label{def:n1-action}
+Let $Y$ be defective.  Consider every disconnected occupied Q2/Q3 mask of
+$Y$ and every unoccupied voxel $v$ incident to at least one such mask.  The
+singleton addition $\{v\}$ is an N1 action exactly when
+\[
+  \pwc(Y\cup\{v\}).
+\]
+Equivalently, the N1 generator forms the union of the missing positions in
+all currently bad masks and retains precisely the one-voxel additions whose
+successors pass the exact Q2/Q3 predicate.  If $Y$ is valid, no N1 action is
+available.
+\end{definition}
+
+\begin{proposition}[Strict descent for the full atomic language]
+\label{prop:full-atomic-descent}
+Define
+\[
+ \Phi(Y)=|\Comp(Y)|+\mathbf 1[\operatorname{fail}(Y)].
+\]
+Every admissible N1 or N2 transition $Y\to Y'$ satisfies
+$\Phi(Y')<\Phi(Y)$.
+\end{proposition}
+
+\begin{proof}
+For an N1 action, the added voxel is drawn from a disconnected Q2/Q3 mask and
+repairs that mask in a globally valid successor.  It is $6$-adjacent to an
+occupied voxel of the current state, so the component count cannot increase,
+while the failure indicator drops from one to zero.  For an N2 action, the
+retained path joins two distinct components, reducing the component count by
+at least one; the successor is valid by the N2 action definition in the article.
+\end{proof}
+
+\section{Finite Compatibility in Short Chain Families}
+
+Consider the interaction between a minimum-cardinality baseline repair and a
+second local repair in the family $\mathrm{chain}_L$.  The finite model has two
+complementary descriptions.  Its minimum-cardinality repair family is
+represented by walks on four repair columns, while support separation reduces
+compatibility with the local repair to a fixed $3\times3\times3$ neighborhood.
+Together these descriptions give a three-layer compatibility bound, attained
+in the $L=5$ family.  The mathematical flow is
+\[
+\begin{aligned}
+ B\in\mathcal M_0(\mathrm{chain}_L)
+ &\xrightarrow{\text{walk representation}}\text{column walk},\\
+ B&\xrightarrow{\text{localization}}B\cap\mathcal L(q)
+   \xrightarrow{\text{three-layer span}}\pwc(Z_{B,q}).
+\end{aligned}
+\]
+
+For a defective voxel set $F_0$, let
+\[
+\begin{aligned}
+ m_0(F_0)&=\min\{\lvert R\rvert:\pwc(F_0\mathbin{\triangle}R)\},\\
+ \mathcal M_0(F_0)&=
+ \{R:\pwc(F_0\mathbin{\triangle}R),\\[-1mm]
+ &\hspace{31mm}\lvert R\rvert=m_0(F_0)\}.
+\end{aligned}
+\]
+Fix
+\[
+ \mathrm{Seed}=\{(-1,-1,-1),(-1,-1,0),(0,0,-1),(0,0,0)\}
+\]
+and, for $L\ge3$, put
+\[
+ \mathrm{chain}_L=\bigcup_{j=0}^{L-2}
+   \bigl(\mathrm{Seed}+(0,0,j)\bigr).
+\]
+At each occupied $z$-layer the four repair columns are
+$(-1,-1)$, $(0,0)$, $(-1,0)$, and $(0,-1)$; the two diagonally opposed pairs
+are $(-1,-1)\leftrightarrow(0,0)$ and
+$(-1,0)\leftrightarrow(0,-1)$.
+
+A perturbation pair $(a,b)$ is called \emph{legitimate} in this finite setting
+when it is isolated from $F_0$ in Chebyshev distance at least two, each single
+perturbation preserves the complete minimal-repair family,
+\[
+ \mathcal M_0(F_0\cup\{a\})=
+ \mathcal M_0(F_0\cup\{b\})=\mathcal M_0(F_0),
+\]
+and the pair creates a defect witness absent from $F_0$ and from both singly
+perturbed states.  Thus legitimacy combines isolation, individual
+invisibility, and joint visibility; equality of defect sets alone is not
+sufficient.
+
+For such a pair let $F_{a,b}=F_0\cup\{a,b\}$ and let $q$ be an associated
+local repair voxel.  Given $B\in\mathcal M_0(F_0)$, set
+\[
+ Z_{B,q}=F_{a,b}\mathbin{\triangle}(B\cup\{q\}).
+\]
+Compatibility means $\pwc(Z_{B,q})$.  Its \emph{compatibility depth} is the
+smallest number of consecutive decision layers whose choices determine this
+verdict, with depth zero denoting a baseline-independent verdict.
+
+\begin{proposition}[Walk representation of minimum repairs]
+\label{prop:finite-walk-precursor}
+For $L\in\{3,4,5\}$, the family
+$\mathcal M_0(\mathrm{chain}_L)$ is in exact bijection with length-$L$ walks
+on the four repair columns that never move between diagonally opposed columns
+at consecutive layers.  Consequently,
+\[
+ \lvert\mathcal M_0(\mathrm{chain}_L)\rvert=4\cdot3^{L-1},
+ \qquad N_L(r)=3^{L-r}
+\]
+for every admissible prefix of length $r\in\{1,\ldots,L-1\}$.
+\end{proposition}
+
+\begin{proof}
+For $L=3$, complete enumeration establishes minimality, the repair family, and the
+forbidden-diagonal transition rule.  For $L=4$,
+exhaustive rejection of all smaller candidate repairs establishes $m_0=4$;
+the completeness of the $108$-member size-four family is then checked by the
+walk description and exact agreement with the finite reference classification.  For
+$L=5$, exact equality and P-well-composedness validity are checked for the
+$324$-member walk family against the finite reference classification; minimality and
+completeness at this length use that complete finite classification rather
+than a second enumeration of all smaller and size-five candidates.
+Once the three finite bijections are established, the first layer has four
+choices and each subsequent layer has three legal continuations, yielding
+both formulas.
+\end{proof}
+
+To state the locality result, let $\mathcal N(v)$ be the set of edge and
+vertex masks incident to a voxel $v$, let $C(h)$ be the voxels incident to a
+mask $h$, and put
+\[
+ \mathcal L(q)=\bigcup_{h\in\mathcal N(q)}C(h)
+              =q+\{-1,0,1\}^3,
+ \qquad
+ D_{\mathcal M}=\bigcup_{B\in\mathcal M_0(F_0)}B.
+\]
+
+\begin{lemma}[Locality under support separation]
+\label{lem:finite-precursor-localization}
+Assume $q\notin D_{\mathcal M}$ and
+\[
+ C(h)\cap D_{\mathcal M}=\varnothing
+ \quad\text{for every }h\in
+ \bigl(\mathcal N(a)\cup\mathcal N(b)\bigr)\setminus\mathcal N(q).
+\]
+Then the verdict $\pwc(Z_{B,q})$ depends on
+$B\in\mathcal M_0(F_0)$ only through $B\cap\mathcal L(q)$.
+\end{lemma}
+
+\begin{proof}
+Every $F_0\mathbin{\triangle}B$ is locally clean.  By
+the mask-locality lemma in the article, toggling $a$, $b$, and $q$ can change only masks
+in $\mathcal N(a)\cup\mathcal N(b)\cup\mathcal N(q)$.  On masks outside
+$\mathcal N(q)$ the displayed disjointness condition excludes every voxel
+whose occupancy can vary with $B$.  The remaining masks lie in
+$\mathcal N(q)$, and their incident voxels have union $\mathcal L(q)$.
+Therefore two baselines agreeing on $B\cap\mathcal L(q)$ give the same local
+occupancies at every potentially affected mask and hence the same verdict.
+\end{proof}
+
+\begin{corollary}[Three-layer compatibility bound]
+\label{cor:finite-precursor-depth}
+Under the hypotheses of
+Lemma~\ref{lem:finite-precursor-localization}, if every baseline repair selects
+one decision voxel per layer, then compatibility depth is at most three.
+\end{corollary}
+
+\begin{proof}
+Since $\mathcal L(q)=q+\{-1,0,1\}^3$, its intersection with any repair column
+is contained in the three levels $q_z-1,q_z,q_z+1$.  Under the
+one-decision-per-layer property, $B\cap\mathcal L(q)$ is therefore determined
+by these three layer decisions.  Lemma~\ref{lem:finite-precursor-localization}
+then shows that the same three decisions determine compatibility.
+\end{proof}
+
+\begin{proposition}[Sharpness and two compatibility mechanisms]
+\label{prop:finite-precursor-sharpness}
+For the distance-two candidate space of $\mathrm{chain}_5$, the exact quotient
+has $76$ symmetry classes representing $528$ legitimate pairs.  Its depth
+distribution contains four depth-three classes representing $12$ pairs, so
+the bound of Corollary~\ref{cor:finite-precursor-depth} is sharp in this
+domain.
+\end{proposition}
+
+\begin{proof}
+The finite classification enumerates all $528$ legitimate distance-two pairs
+and partitions them into $76$ symmetry classes.  For each class
+representative, the compatibility verdict is evaluated on the complete
+$324$-member walk family from Proposition~\ref{prop:finite-walk-precursor}.
+Comparing this truth table with the restrictions to consecutive decision
+windows of lengths zero, one, two, and three gives the least determining
+window, hence the compatibility depth.  The resulting class counts are
+$64,6,2,4$ at depths $0,1,2,3$, while the corresponding orbit sizes sum to
+$468,40,8,12$ pairs.  In particular, four classes representing $12$ pairs
+require all three layers.  Corollary~\ref{cor:finite-precursor-depth} gives the
+matching upper bound, so depth three is attained and the bound is sharp.
+The complete orbit records are included in this Online Resource.
+\end{proof}
+
+The depth-three classes realize two genuinely different predicates on the
+relevant decision window.  In the \emph{inclusion mechanism}, compatibility
+requires every decision in the window to occupy the prescribed column
+$(-1,-1)$, so the compatible subfamily is a prefix-restricted walk family.
+In the \emph{exclusion/OR mechanism}, incompatibility is triggered whenever
+the column $(-1,0)$ occurs at any position of the window; the predicate is
+therefore a union of layerwise exclusions rather than a conjunction of
+prescribed choices.
+
+The $21$ support-separation checks are exactly the nonzero-depth applicability
+instances: $3$ for $L=3$, $6$ for $L=4$, and $12$ for $L=5$.  Depth-zero
+classes are excluded because their verdict is baseline-independent by
+definition.  The complete orbit table, all representatives, the support-separation
+checks, and the mechanism witnesses are included in this Online Resource.  The propositions above concern the stated finite
+chain families.  The walk representation is established only for
+$L\in\{3,4,5\}$, and support separation is not asserted to hold automatically
+for arbitrary $L$.  These finite compatibility results concern only the stated short-chain
+families and are not used in the proofs of the article's two main theorems.
+
+\end{document}
