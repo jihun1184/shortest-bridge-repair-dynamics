@@ -1,5 +1,5 @@
 {
-  "description": "Representative depth-one legitimate exceptional pair at L=3, reproduced in the DAM manuscript's Section 6.1 illustration and independently re-verified by running section6_1_split.py from the manuscript's GitHub release v1.0.1.",
+  "description": "Representative depth-one legitimate exceptional pair at L=3 included in the finite short-chain compatibility data of Online Resource 1.",
   "a": [-3, -2, -2],
   "b": [-2, -3, -2],
   "q": [-2, -2, -2],
@@ -10,11 +10,9 @@
     "()": {"n": 27, "uniform": true, "verdict": false}
   },
   "compatibility_depth": 1,
-  "note": "The single nonempty restriction class involves only the z=-1 layer, so the compatibility depth of q is 1. Full and restricted verdicts agree exactly across all 36 baseline repairs of chain_3, consistent with the Bounded Compatibility Depth theorem.",
+  "note": "The single nonempty restriction class involves only the z=-1 layer, so the compatibility depth of q is 1. Full and restricted verdicts agree exactly across all 36 baseline repairs of chain_3.",
   "source": {
-    "manuscript": "DAM_revised.zip / DAM_submission/manuscript.tex, Section 6.1 and Figure 4 caption",
-    "reproduction_script": "scripts/section6_1_split.py",
-    "reference_file": "reference_results/section6_1_Fpair_M0_reference.json",
-    "github_release": "https://github.com/jihun1184/bounded-compatibility-depth-voxel-repair (v1.0.1)"
+    "package": "Online Resource 1",
+    "context": "Finite short-chain compatibility data accompanying this article."
   }
 }
