@@ -1,0 +1,115 @@
+{
+  "package": "Bounded Compatibility Depth reproducibility package",
+  "generated": "2026-08-13",
+  "manifest_scope": "all distributed files except MANIFEST.json itself",
+  "files": {
+    ".gitignore": {
+      "sha256": "9180760c6dc1ce111fadd2a2a2f6c7a42081d75f35f2ee8b5d7447ca2604225b",
+      "size_bytes": 42
+    },
+    "CONTENTS.txt": {
+      "sha256": "bcb1b35b9403a777f8efb12edf036f876d73bf2d0cdd6d3ee98790d3a46d51ea",
+      "size_bytes": 2346
+    },
+    "LICENSE": {
+      "sha256": "a3711724871fa3e6572f5e79be47c14449476076c0f463aa32bb970cfe3e6b4a",
+      "size_bytes": 1324
+    },
+    "README.md": {
+      "sha256": "b8bae930e8136c8abb8659912cec5af504785a14cbc329562985d76aa0d7d56a",
+      "size_bytes": 3544
+    },
+    "reference_results/bridge_lemma_reference.json": {
+      "sha256": "427e4a7fc97b4e13b4401034cf5990d1fd90f33b186eae5551f8875137fc615b",
+      "size_bytes": 5676
+    },
+    "reference_results/chain_L3_base_M0_reference.json": {
+      "sha256": "1273b7d9e5366cc65b73244702626fbd8f0f0bd177824768dc39cc5e64016224",
+      "size_bytes": 1412
+    },
+    "reference_results/chain_L4_base_M0_reference.json": {
+      "sha256": "dcc2689725d2edb65ac26dea8527d0866c0f64f937e0bd41a2f3f43f78981f42",
+      "size_bytes": 5518
+    },
+    "reference_results/chain_L5_base_M0_reference.json": {
+      "sha256": "38a9ea9bbec04fe9cfdb686f58ccce5a0f53aaa652a9360b07020c58e1c01d93",
+      "size_bytes": 20420
+    },
+    "reference_results/chain_L5_orbit_audit_reference.json": {
+      "sha256": "75a5dfe09f740cea6febde285a27fdabdaea0dd59bdd9a576618554642312ca9",
+      "size_bytes": 49247
+    },
+    "reference_results/disjointness_L3_L5_reference.json": {
+      "sha256": "b94b62348cf3d81a75dfec4f8dc5cbcfa09713c90be47afa9d508bb195bc33ce",
+      "size_bytes": 4370
+    },
+    "reference_results/disjointness_L4_reference.json": {
+      "sha256": "810f49adc9f1e3bec9dba36f87093ad5bb58680c1be60e5fa6a36e6bfb739970",
+      "size_bytes": 1657
+    },
+    "reference_results/section6_1_Fpair_M0_reference.json": {
+      "sha256": "75b75bd6219b821f868d7871f5f06285da523db288201d0859da951791e3b0df",
+      "size_bytes": 377
+    },
+    "requirements.txt": {
+      "sha256": "de43d45af1327ffe049e50cb7e05a0332375a86fbc8fefb7723814121994714e",
+      "size_bytes": 113
+    },
+    "scripts/bridge_lemma.py": {
+      "sha256": "5af96d08a6b33e18cab3b1f1f2105d8fd138bc6399ee5b0ab71997e3a5609438",
+      "size_bytes": 2154
+    },
+    "scripts/depth_histogram.py": {
+      "sha256": "feae869ca1c7b5757e640da891c31bd812588128da7506a078e968b6f55b4159",
+      "size_bytes": 2010
+    },
+    "scripts/disjointness_L3_L5.py": {
+      "sha256": "6231c0554bfaa649ade96fa4893f7a55e7f739b148159aba672b82f3a6441a0d",
+      "size_bytes": 3079
+    },
+    "scripts/disjointness_L4.py": {
+      "sha256": "0db0f07ecf5956b18bd290c451f16d84a8b39739c61b8d68a62e4cf7877b79a8",
+      "size_bytes": 2657
+    },
+    "scripts/generate_manifest.py": {
+      "sha256": "95db939be51cc5c03b99863c08a9498ee52aa76e64731bb5425994fee263dfd5",
+      "size_bytes": 2443
+    },
+    "scripts/section6_1_split.py": {
+      "sha256": "c37dcc0adc9a0c44b0d42a78d201147bc1c51fa00909ba809ccf6b4d5eea259e",
+      "size_bytes": 2632
+    },
+    "scripts/walk_counts.py": {
+      "sha256": "03f9c7a1df799e622bacc6196d1a1a11244179a5f61ff84a9d72990becb2f9f8",
+      "size_bytes": 5356
+    },
+    "src/__init__.py": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_bytes": 0
+    },
+    "src/geometry_utils.py": {
+      "sha256": "1d6ca9f04ab1928d0d06c7c639ba344ea5222aef3b0acbe21819798c06b39ddb",
+      "size_bytes": 1553
+    },
+    "src/pcm_check.py": {
+      "sha256": "fdecf7bfee3f7efce3d919c9e19f091911452896fcdad8f20dd32bc34c1d8f34",
+      "size_bytes": 6273
+    },
+    "src/repair_enumeration_core.py": {
+      "sha256": "76721184d07381e060447395e3a9d30cb1a336b80f6515c7e8f485cca60d81a7",
+      "size_bytes": 2171
+    },
+    "src/stage2_repair_core.py": {
+      "sha256": "ee72f00343d905952878e1ebfb665f836009c6161bf6807337b47d04b31e2e28",
+      "size_bytes": 7924
+    }
+  },
+  "claim_map": {
+    "Table 1 / Proposition 2": "scripts/walk_counts.py",
+    "Table 2 / Corollary 7": "scripts/depth_histogram.py",
+    "Lemmas 3 and 4": "scripts/bridge_lemma.py",
+    "Table 3, L=3 and L=5": "scripts/disjointness_L3_L5.py",
+    "Table 3, L=4": "scripts/disjointness_L4.py",
+    "Section 6.1 / Figure 4": "scripts/section6_1_split.py"
+  }
+}

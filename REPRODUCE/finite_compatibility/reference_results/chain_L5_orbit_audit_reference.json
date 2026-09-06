@@ -1,0 +1,4091 @@
+[
+ {
+  "orbit_id": "((-3, -2, 0), (-2, -3, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -2,
+    -3,
+    0
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    0
+   ],
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -2,
+    -3,
+    0
+   ],
+   [
+    -2,
+    -2,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, 0)": 324,
+   "(-3, -2, 0)": 324,
+   "(-2, -3, 0)": 324,
+   "(-2, -2, 0)": 9
+  },
+  "min_compat": 9,
+  "exact_window": [
+   "c0",
+   "c1",
+   "c2"
+  ],
+  "logic_type": "inclusion",
+  "compatibility_depth": 3
+ },
+ {
+  "orbit_id": "((-3, -2, 1), (-2, -3, 1))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    1
+   ],
+   [
+    -2,
+    -3,
+    1
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 2,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    1
+   ],
+   [
+    -3,
+    -2,
+    1
+   ],
+   [
+    -2,
+    -3,
+    1
+   ],
+   [
+    -2,
+    -2,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, 1)": 324,
+   "(-3, -2, 1)": 324,
+   "(-2, -3, 1)": 324,
+   "(-2, -2, 1)": 9
+  },
+  "min_compat": 9,
+  "exact_window": [
+   "c1",
+   "c2",
+   "c3"
+  ],
+  "logic_type": "inclusion",
+  "compatibility_depth": 3
+ },
+ {
+  "orbit_id": "((-3, 1, 0), (-2, 2, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    0
+   ],
+   [
+    -2,
+    2,
+    0
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    0
+   ],
+   [
+    -3,
+    2,
+    0
+   ],
+   [
+    -2,
+    1,
+    0
+   ],
+   [
+    -2,
+    2,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, 0)": 324,
+   "(-3, 2, 0)": 324,
+   "(-2, 1, 0)": 153,
+   "(-2, 2, 0)": 324
+  },
+  "min_compat": 153,
+  "exact_window": [
+   "c0",
+   "c1",
+   "c2"
+  ],
+  "logic_type": "exclusion_or",
+  "compatibility_depth": 3
+ },
+ {
+  "orbit_id": "((-3, 1, 1), (-2, 2, 1))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    1
+   ],
+   [
+    -2,
+    2,
+    1
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 2,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    1
+   ],
+   [
+    -3,
+    2,
+    1
+   ],
+   [
+    -2,
+    1,
+    1
+   ],
+   [
+    -2,
+    2,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, 1)": 324,
+   "(-3, 2, 1)": 324,
+   "(-2, 1, 1)": 153,
+   "(-2, 2, 1)": 324
+  },
+  "min_compat": 153,
+  "exact_window": [
+   "c1",
+   "c2",
+   "c3"
+  ],
+  "logic_type": "exclusion_or",
+  "compatibility_depth": 3
+ },
+ {
+  "orbit_id": "((-3, -2, -1), (-2, -3, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -2,
+    -3,
+    -1
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -1
+   ],
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -2,
+    -3,
+    -1
+   ],
+   [
+    -2,
+    -2,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -1)": 324,
+   "(-3, -2, -1)": 324,
+   "(-2, -3, -1)": 324,
+   "(-2, -2, -1)": 27
+  },
+  "min_compat": 27,
+  "exact_window": [
+   "c0",
+   "c1"
+  ],
+  "logic_type": "inclusion",
+  "compatibility_depth": 2
+ },
+ {
+  "orbit_id": "((-3, 1, -1), (-2, 2, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    -1
+   ],
+   [
+    -2,
+    2,
+    -1
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    -1
+   ],
+   [
+    -3,
+    2,
+    -1
+   ],
+   [
+    -2,
+    1,
+    -1
+   ],
+   [
+    -2,
+    2,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, -1)": 324,
+   "(-3, 2, -1)": 324,
+   "(-2, 1, -1)": 189,
+   "(-2, 2, -1)": 324
+  },
+  "min_compat": 189,
+  "exact_window": [
+   "c0",
+   "c1"
+  ],
+  "logic_type": "exclusion_or",
+  "compatibility_depth": 2
+ },
+ {
+  "orbit_id": "((-3, -2, -2), (-2, -3, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -2,
+    -3,
+    -2
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [],
+  "compat_counts": {
+   "(-3, -3, -2)": 324,
+   "(-3, -2, -2)": 324,
+   "(-2, -3, -2)": 324,
+   "(-2, -2, -2)": 81
+  },
+  "min_compat": 81,
+  "exact_window": [
+   "c0"
+  ],
+  "logic_type": "inclusion",
+  "compatibility_depth": 1
+ },
+ {
+  "orbit_id": "((-3, -2, -2), (-2, -2, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ]
+  ],
+  "geometry_type": "y-fixed",
+  "delta": [
+   1,
+   0,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -2,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -3)": 324,
+   "(-3, -2, -2)": 324,
+   "(-2, -2, -3)": 324,
+   "(-2, -2, -2)": 81
+  },
+  "min_compat": 81,
+  "exact_window": [
+   "c0"
+  ],
+  "logic_type": "inclusion",
+  "compatibility_depth": 1
+ },
+ {
+  "orbit_id": "((-3, -1, -2), (-2, -1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ]
+  ],
+  "geometry_type": "y-fixed",
+  "delta": [
+   1,
+   0,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ],
+   [
+    -2,
+    -1,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -3)": 324,
+   "(-3, -1, -2)": 324,
+   "(-2, -1, -3)": 324,
+   "(-2, -1, -2)": 81
+  },
+  "min_compat": 81,
+  "exact_window": [
+   "c0"
+  ],
+  "logic_type": "inclusion",
+  "compatibility_depth": 1
+ },
+ {
+  "orbit_id": "((-3, 0, -2), (-2, 0, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -2,
+    0,
+    -3
+   ]
+  ],
+  "geometry_type": "y-fixed",
+  "delta": [
+   1,
+   0,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -2,
+    0,
+    -3
+   ],
+   [
+    -2,
+    0,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -3)": 324,
+   "(-3, 0, -2)": 324,
+   "(-2, 0, -3)": 324,
+   "(-2, 0, -2)": 81
+  },
+  "min_compat": 81,
+  "exact_window": [
+   "c0"
+  ],
+  "logic_type": "inclusion",
+  "compatibility_depth": 1
+ },
+ {
+  "orbit_id": "((-3, 1, -2), (-2, 1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -2,
+    1,
+    -3
+   ]
+  ],
+  "geometry_type": "y-fixed",
+  "delta": [
+   1,
+   0,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -2,
+    1,
+    -3
+   ],
+   [
+    -2,
+    1,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, -3)": 324,
+   "(-3, 1, -2)": 324,
+   "(-2, 1, -3)": 324,
+   "(-2, 1, -2)": 243
+  },
+  "min_compat": 243,
+  "exact_window": [
+   "c0"
+  ],
+  "logic_type": "exclusion",
+  "compatibility_depth": 1
+ },
+ {
+  "orbit_id": "((-3, 1, -2), (-2, 2, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -2,
+    2,
+    -2
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -3,
+    2,
+    -2
+   ],
+   [
+    -2,
+    1,
+    -2
+   ],
+   [
+    -2,
+    2,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, -2)": 324,
+   "(-3, 2, -2)": 324,
+   "(-2, 1, -2)": 243,
+   "(-2, 2, -2)": 324
+  },
+  "min_compat": 243,
+  "exact_window": [
+   "c0"
+  ],
+  "logic_type": "exclusion",
+  "compatibility_depth": 1
+ },
+ {
+  "orbit_id": "((-3, -3, -3), (-3, -2, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    -3
+   ],
+   [
+    -3,
+    -2,
+    -2
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -3
+   ],
+   [
+    -3,
+    -3,
+    -2
+   ],
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -3,
+    -2,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -3)": 324,
+   "(-3, -3, -2)": 324,
+   "(-3, -2, -3)": 324,
+   "(-3, -2, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -3, -3), (-2, -2, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    -3
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -3
+   ],
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -3,
+    -3
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -3)": 324,
+   "(-3, -2, -3)": 324,
+   "(-2, -3, -3)": 324,
+   "(-2, -2, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -3, -2), (-3, -2, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    -2
+   ],
+   [
+    -3,
+    -2,
+    -3
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -3
+   ],
+   [
+    -3,
+    -3,
+    -2
+   ],
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -3,
+    -2,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -3)": 324,
+   "(-3, -3, -2)": 324,
+   "(-3, -2, -3)": 324,
+   "(-3, -2, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -3, -2), (-3, -2, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    -2
+   ],
+   [
+    -3,
+    -2,
+    -1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -2
+   ],
+   [
+    -3,
+    -3,
+    -1
+   ],
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -3,
+    -2,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -2)": 324,
+   "(-3, -3, -1)": 324,
+   "(-3, -2, -2)": 324,
+   "(-3, -2, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -3, -2), (-2, -2, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    -2
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   1,
+   -1
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -2
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -2)": 324,
+   "(-2, -2, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -3, -1), (-3, -2, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    -1
+   ],
+   [
+    -3,
+    -2,
+    -2
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -2
+   ],
+   [
+    -3,
+    -3,
+    -1
+   ],
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -3,
+    -2,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -2)": 324,
+   "(-3, -3, -1)": 324,
+   "(-3, -2, -2)": 324,
+   "(-3, -2, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -3, -1), (-3, -2, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    -1
+   ],
+   [
+    -3,
+    -2,
+    0
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -1
+   ],
+   [
+    -3,
+    -3,
+    0
+   ],
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -3,
+    -2,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -1)": 324,
+   "(-3, -3, 0)": 324,
+   "(-3, -2, -1)": 324,
+   "(-3, -2, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -3, 0), (-3, -2, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    0
+   ],
+   [
+    -3,
+    -2,
+    -1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -1
+   ],
+   [
+    -3,
+    -3,
+    0
+   ],
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -3,
+    -2,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -1)": 324,
+   "(-3, -3, 0)": 324,
+   "(-3, -2, -1)": 324,
+   "(-3, -2, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -3, 0), (-3, -2, 1))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    0
+   ],
+   [
+    -3,
+    -2,
+    1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    0
+   ],
+   [
+    -3,
+    -3,
+    1
+   ],
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -3,
+    -2,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, 0)": 324,
+   "(-3, -3, 1)": 324,
+   "(-3, -2, 0)": 324,
+   "(-3, -2, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -3, 1), (-3, -2, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    -3,
+    1
+   ],
+   [
+    -3,
+    -2,
+    0
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    0
+   ],
+   [
+    -3,
+    -3,
+    1
+   ],
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -3,
+    -2,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, 0)": 324,
+   "(-3, -3, 1)": 324,
+   "(-3, -2, 0)": 324,
+   "(-3, -2, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -3), (-3, -1, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -3,
+    -1,
+    -2
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -3,
+    -1,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -3)": 324,
+   "(-3, -2, -2)": 324,
+   "(-3, -1, -3)": 324,
+   "(-3, -1, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -3), (-2, -3, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -3,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -3,
+    -3
+   ],
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -3,
+    -3
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -3, -3)": 324,
+   "(-3, -2, -3)": 324,
+   "(-2, -3, -3)": 324,
+   "(-2, -2, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -3), (-2, -3, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -3,
+    -2
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   -1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -3,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -3)": 324,
+   "(-2, -3, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -3), (-2, -1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -3)": 324,
+   "(-3, -1, -3)": 324,
+   "(-2, -2, -3)": 324,
+   "(-2, -1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -2), (-3, -1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -3,
+    -1,
+    -3
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -3,
+    -1,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -3)": 324,
+   "(-3, -2, -2)": 324,
+   "(-3, -1, -3)": 324,
+   "(-3, -1, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -2), (-3, -1, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -3,
+    -1,
+    -1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -3,
+    -1,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -2)": 324,
+   "(-3, -2, -1)": 324,
+   "(-3, -1, -2)": 324,
+   "(-3, -1, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -2), (-2, -3, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -2,
+    -3,
+    -1
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   -1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -2,
+    -3,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -2)": 324,
+   "(-2, -3, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -2), (-2, -1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -2)": 324,
+   "(-2, -1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -1), (-3, -1, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -3,
+    -1,
+    -2
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -2
+   ],
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -3,
+    -1,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -2)": 324,
+   "(-3, -2, -1)": 324,
+   "(-3, -1, -2)": 324,
+   "(-3, -1, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -1), (-3, -1, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -3,
+    -1,
+    0
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -3,
+    -1,
+    -1
+   ],
+   [
+    -3,
+    -1,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -1)": 324,
+   "(-3, -2, 0)": 324,
+   "(-3, -1, -1)": 324,
+   "(-3, -1, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, -1), (-2, -3, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -2,
+    -3,
+    0
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   -1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -2,
+    -3,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -1)": 324,
+   "(-2, -3, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, 0), (-3, -1, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -3,
+    -1,
+    -1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -1
+   ],
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -3,
+    -1,
+    -1
+   ],
+   [
+    -3,
+    -1,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -1)": 324,
+   "(-3, -2, 0)": 324,
+   "(-3, -1, -1)": 324,
+   "(-3, -1, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, 0), (-3, -1, 1))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -3,
+    -1,
+    1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -3,
+    -2,
+    1
+   ],
+   [
+    -3,
+    -1,
+    0
+   ],
+   [
+    -3,
+    -1,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, 0)": 324,
+   "(-3, -2, 1)": 324,
+   "(-3, -1, 0)": 324,
+   "(-3, -1, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, 0), (-2, -3, 1))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -2,
+    -3,
+    1
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   -1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -2,
+    -3,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, 0)": 324,
+   "(-2, -3, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -2, 1), (-3, -1, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    -2,
+    1
+   ],
+   [
+    -3,
+    -1,
+    0
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    0
+   ],
+   [
+    -3,
+    -2,
+    1
+   ],
+   [
+    -3,
+    -1,
+    0
+   ],
+   [
+    -3,
+    -1,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, 0)": 324,
+   "(-3, -2, 1)": 324,
+   "(-3, -1, 0)": 324,
+   "(-3, -1, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, -3), (-3, 0, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -3,
+    0,
+    -2
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -3,
+    0,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -3)": 324,
+   "(-3, -1, -2)": 324,
+   "(-3, 0, -3)": 324,
+   "(-3, 0, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, -3), (-2, -2, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -2,
+    -3
+   ],
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -2, -3)": 324,
+   "(-3, -1, -3)": 324,
+   "(-2, -2, -3)": 324,
+   "(-2, -1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, -3), (-2, 0, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -2,
+    0,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ],
+   [
+    -2,
+    0,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -3)": 324,
+   "(-3, 0, -3)": 324,
+   "(-2, -1, -3)": 324,
+   "(-2, 0, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, -2), (-3, 0, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -3,
+    0,
+    -3
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -3,
+    0,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -3)": 324,
+   "(-3, -1, -2)": 324,
+   "(-3, 0, -3)": 324,
+   "(-3, 0, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, -2), (-3, 0, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -3,
+    0,
+    -1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -3,
+    -1,
+    -1
+   ],
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -3,
+    0,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -2)": 324,
+   "(-3, -1, -1)": 324,
+   "(-3, 0, -2)": 324,
+   "(-3, 0, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, -2), (-2, -2, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   -1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -2,
+    -2,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -2)": 324,
+   "(-2, -2, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, -2), (-2, 0, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -2,
+    0,
+    -3
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -2,
+    0,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -2)": 324,
+   "(-2, 0, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, -1), (-3, 0, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -1
+   ],
+   [
+    -3,
+    0,
+    -2
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -2
+   ],
+   [
+    -3,
+    -1,
+    -1
+   ],
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -3,
+    0,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -2)": 324,
+   "(-3, -1, -1)": 324,
+   "(-3, 0, -2)": 324,
+   "(-3, 0, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, -1), (-3, 0, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    -1
+   ],
+   [
+    -3,
+    0,
+    0
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -1
+   ],
+   [
+    -3,
+    -1,
+    0
+   ],
+   [
+    -3,
+    0,
+    -1
+   ],
+   [
+    -3,
+    0,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -1)": 324,
+   "(-3, -1, 0)": 324,
+   "(-3, 0, -1)": 324,
+   "(-3, 0, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, 0), (-3, 0, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    0
+   ],
+   [
+    -3,
+    0,
+    -1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -1
+   ],
+   [
+    -3,
+    -1,
+    0
+   ],
+   [
+    -3,
+    0,
+    -1
+   ],
+   [
+    -3,
+    0,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -1)": 324,
+   "(-3, -1, 0)": 324,
+   "(-3, 0, -1)": 324,
+   "(-3, 0, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, 0), (-3, 0, 1))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    0
+   ],
+   [
+    -3,
+    0,
+    1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    0
+   ],
+   [
+    -3,
+    -1,
+    1
+   ],
+   [
+    -3,
+    0,
+    0
+   ],
+   [
+    -3,
+    0,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, 0)": 324,
+   "(-3, -1, 1)": 324,
+   "(-3, 0, 0)": 324,
+   "(-3, 0, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, -1, 1), (-3, 0, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    -1,
+    1
+   ],
+   [
+    -3,
+    0,
+    0
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    0
+   ],
+   [
+    -3,
+    -1,
+    1
+   ],
+   [
+    -3,
+    0,
+    0
+   ],
+   [
+    -3,
+    0,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, 0)": 324,
+   "(-3, -1, 1)": 324,
+   "(-3, 0, 0)": 324,
+   "(-3, 0, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, -3), (-3, 1, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -3,
+    1,
+    -2
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -3,
+    1,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -3)": 324,
+   "(-3, 0, -2)": 324,
+   "(-3, 1, -3)": 324,
+   "(-3, 1, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, -3), (-2, -1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    -1,
+    -3
+   ],
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ],
+   [
+    -2,
+    0,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, -1, -3)": 324,
+   "(-3, 0, -3)": 324,
+   "(-2, -1, -3)": 324,
+   "(-2, 0, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, -3), (-2, 1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -2,
+    1,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -2,
+    0,
+    -3
+   ],
+   [
+    -2,
+    1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -3)": 324,
+   "(-3, 1, -3)": 324,
+   "(-2, 0, -3)": 324,
+   "(-2, 1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, -2), (-3, 1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -3,
+    1,
+    -3
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -3,
+    1,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -3)": 324,
+   "(-3, 0, -2)": 324,
+   "(-3, 1, -3)": 324,
+   "(-3, 1, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, -2), (-3, 1, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -3,
+    1,
+    -1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -3,
+    0,
+    -1
+   ],
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -3,
+    1,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -2)": 324,
+   "(-3, 0, -1)": 324,
+   "(-3, 1, -2)": 324,
+   "(-3, 1, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, -2), (-2, -1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   -1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -2)": 324,
+   "(-2, -1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, -2), (-2, 1, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -2,
+    1,
+    -3
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -2,
+    1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -2)": 324,
+   "(-2, 1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, -1), (-3, 1, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -1
+   ],
+   [
+    -3,
+    1,
+    -2
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -2
+   ],
+   [
+    -3,
+    0,
+    -1
+   ],
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -3,
+    1,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -2)": 324,
+   "(-3, 0, -1)": 324,
+   "(-3, 1, -2)": 324,
+   "(-3, 1, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, -1), (-3, 1, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    -1
+   ],
+   [
+    -3,
+    1,
+    0
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -1
+   ],
+   [
+    -3,
+    0,
+    0
+   ],
+   [
+    -3,
+    1,
+    -1
+   ],
+   [
+    -3,
+    1,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -1)": 324,
+   "(-3, 0, 0)": 324,
+   "(-3, 1, -1)": 324,
+   "(-3, 1, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, 0), (-3, 1, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    0
+   ],
+   [
+    -3,
+    1,
+    -1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -1
+   ],
+   [
+    -3,
+    0,
+    0
+   ],
+   [
+    -3,
+    1,
+    -1
+   ],
+   [
+    -3,
+    1,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -1)": 324,
+   "(-3, 0, 0)": 324,
+   "(-3, 1, -1)": 324,
+   "(-3, 1, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, 0), (-3, 1, 1))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    0
+   ],
+   [
+    -3,
+    1,
+    1
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    0
+   ],
+   [
+    -3,
+    0,
+    1
+   ],
+   [
+    -3,
+    1,
+    0
+   ],
+   [
+    -3,
+    1,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, 0)": 324,
+   "(-3, 0, 1)": 324,
+   "(-3, 1, 0)": 324,
+   "(-3, 1, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 0, 1), (-3, 1, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    0,
+    1
+   ],
+   [
+    -3,
+    1,
+    0
+   ]
+  ],
+  "geometry_type": "x-fixed",
+  "delta": [
+   0,
+   1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    0
+   ],
+   [
+    -3,
+    0,
+    1
+   ],
+   [
+    -3,
+    1,
+    0
+   ],
+   [
+    -3,
+    1,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, 0)": 324,
+   "(-3, 0, 1)": 324,
+   "(-3, 1, 0)": 324,
+   "(-3, 1, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 1, -3), (-2, 0, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -2,
+    0,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    0,
+    -3
+   ],
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -2,
+    0,
+    -3
+   ],
+   [
+    -2,
+    1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 0, -3)": 324,
+   "(-3, 1, -3)": 324,
+   "(-2, 0, -3)": 324,
+   "(-2, 1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 1, -3), (-2, 2, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -2,
+    2,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -3,
+    2,
+    -3
+   ],
+   [
+    -2,
+    1,
+    -3
+   ],
+   [
+    -2,
+    2,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, -3)": 324,
+   "(-3, 2, -3)": 324,
+   "(-2, 1, -3)": 324,
+   "(-2, 2, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 1, -3), (-2, 2, -2))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -2,
+    2,
+    -2
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    -3
+   ],
+   [
+    -2,
+    2,
+    -2
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, -3)": 324,
+   "(-2, 2, -2)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 1, -2), (-2, 0, -3))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -2,
+    0,
+    -3
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   -1,
+   -1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -2,
+    0,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, -2)": 324,
+   "(-2, 0, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 1, -2), (-2, 2, -1))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -2,
+    2,
+    -1
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    -2
+   ],
+   [
+    -2,
+    2,
+    -1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, -2)": 324,
+   "(-2, 2, -1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 1, -1), (-2, 2, 0))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    -1
+   ],
+   [
+    -2,
+    2,
+    0
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    -1
+   ],
+   [
+    -2,
+    2,
+    0
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, -1)": 324,
+   "(-2, 2, 0)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-3, 1, 0), (-2, 2, 1))",
+  "canonical_pair": [
+   [
+    -3,
+    1,
+    0
+   ],
+   [
+    -2,
+    2,
+    1
+   ]
+  ],
+  "geometry_type": "diagonal-3d",
+  "delta": [
+   1,
+   1,
+   1
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -3,
+    1,
+    0
+   ],
+   [
+    -2,
+    2,
+    1
+   ]
+  ],
+  "compat_counts": {
+   "(-3, 1, 0)": 324,
+   "(-2, 2, 1)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-2, -2, -3), (-1, -1, -3))",
+  "canonical_pair": [
+   [
+    -2,
+    -2,
+    -3
+   ],
+   [
+    -1,
+    -1,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -2,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ],
+   [
+    -1,
+    -2,
+    -3
+   ],
+   [
+    -1,
+    -1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-2, -2, -3)": 324,
+   "(-2, -1, -3)": 324,
+   "(-1, -2, -3)": 324,
+   "(-1, -1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-2, -1, -3), (-1, -2, -3))",
+  "canonical_pair": [
+   [
+    -2,
+    -1,
+    -3
+   ],
+   [
+    -1,
+    -2,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -2,
+    -2,
+    -3
+   ],
+   [
+    -2,
+    -1,
+    -3
+   ],
+   [
+    -1,
+    -2,
+    -3
+   ],
+   [
+    -1,
+    -1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-2, -2, -3)": 324,
+   "(-2, -1, -3)": 324,
+   "(-1, -2, -3)": 324,
+   "(-1, -1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-2, -1, -3), (-1, 0, -3))",
+  "canonical_pair": [
+   [
+    -2,
+    -1,
+    -3
+   ],
+   [
+    -1,
+    0,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -2,
+    -1,
+    -3
+   ],
+   [
+    -2,
+    0,
+    -3
+   ],
+   [
+    -1,
+    -1,
+    -3
+   ],
+   [
+    -1,
+    0,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-2, -1, -3)": 324,
+   "(-2, 0, -3)": 324,
+   "(-1, -1, -3)": 324,
+   "(-1, 0, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-2, 0, -3), (-1, -1, -3))",
+  "canonical_pair": [
+   [
+    -2,
+    0,
+    -3
+   ],
+   [
+    -1,
+    -1,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 8,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -2,
+    -1,
+    -3
+   ],
+   [
+    -2,
+    0,
+    -3
+   ],
+   [
+    -1,
+    -1,
+    -3
+   ],
+   [
+    -1,
+    0,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-2, -1, -3)": 324,
+   "(-2, 0, -3)": 324,
+   "(-1, -1, -3)": 324,
+   "(-1, 0, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-2, 0, -3), (-1, 1, -3))",
+  "canonical_pair": [
+   [
+    -2,
+    0,
+    -3
+   ],
+   [
+    -1,
+    1,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -2,
+    0,
+    -3
+   ],
+   [
+    -2,
+    1,
+    -3
+   ],
+   [
+    -1,
+    0,
+    -3
+   ],
+   [
+    -1,
+    1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-2, 0, -3)": 324,
+   "(-2, 1, -3)": 324,
+   "(-1, 0, -3)": 324,
+   "(-1, 1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-2, 1, -3), (-1, 0, -3))",
+  "canonical_pair": [
+   [
+    -2,
+    1,
+    -3
+   ],
+   [
+    -1,
+    0,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 4,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -2,
+    0,
+    -3
+   ],
+   [
+    -2,
+    1,
+    -3
+   ],
+   [
+    -1,
+    0,
+    -3
+   ],
+   [
+    -1,
+    1,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-2, 0, -3)": 324,
+   "(-2, 1, -3)": 324,
+   "(-1, 0, -3)": 324,
+   "(-1, 1, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-1, -1, -3), (0, 0, -3))",
+  "canonical_pair": [
+   [
+    -1,
+    -1,
+    -3
+   ],
+   [
+    0,
+    0,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   1,
+   0
+  ],
+  "orbit_size": 2,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -1,
+    -1,
+    -3
+   ],
+   [
+    -1,
+    0,
+    -3
+   ],
+   [
+    0,
+    -1,
+    -3
+   ],
+   [
+    0,
+    0,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-1, -1, -3)": 324,
+   "(-1, 0, -3)": 324,
+   "(0, -1, -3)": 324,
+   "(0, 0, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ },
+ {
+  "orbit_id": "((-1, 0, -3), (0, -1, -3))",
+  "canonical_pair": [
+   [
+    -1,
+    0,
+    -3
+   ],
+   [
+    0,
+    -1,
+    -3
+   ]
+  ],
+  "geometry_type": "z-fixed",
+  "delta": [
+   1,
+   -1,
+   0
+  ],
+  "orbit_size": 2,
+  "endpoint_invisibility": true,
+  "joint_visibility": true,
+  "Q_local_repair_set": [
+   [
+    -1,
+    -1,
+    -3
+   ],
+   [
+    -1,
+    0,
+    -3
+   ],
+   [
+    0,
+    -1,
+    -3
+   ],
+   [
+    0,
+    0,
+    -3
+   ]
+  ],
+  "compat_counts": {
+   "(-1, -1, -3)": 324,
+   "(-1, 0, -3)": 324,
+   "(0, -1, -3)": 324,
+   "(0, 0, -3)": 324
+  },
+  "min_compat": 324,
+  "exact_window": [],
+  "logic_type": "trivial",
+  "compatibility_depth": 0
+ }
+]

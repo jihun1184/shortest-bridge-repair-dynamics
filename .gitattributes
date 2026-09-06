@@ -1,0 +1,5 @@
+# Byte-preserved historical/recovered provenance.
+# Do not normalize line endings or treat these archived/reference artifacts as text diffs.
+REPRODUCE/stabilization_A4L3_historical/** binary
+REPRODUCE/provenance/** binary
+REPRODUCE/finite_compatibility/reference_results/** binary

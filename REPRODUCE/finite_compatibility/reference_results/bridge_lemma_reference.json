@@ -1,0 +1,360 @@
+[
+  {
+    "orbit_id": "((-3, -2, 0), (-2, -3, 0))",
+    "logic_type": "inclusion",
+    "depth": 3,
+    "exact_window": [
+      "c0",
+      "c1",
+      "c2"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          -2,
+          0
+        ],
+        "compat": 9,
+        "q_z": 0,
+        "allowed_z_range": [
+          -1,
+          1
+        ],
+        "window_z_range": [
+          -1,
+          1
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, -2, 1), (-2, -3, 1))",
+    "logic_type": "inclusion",
+    "depth": 3,
+    "exact_window": [
+      "c1",
+      "c2",
+      "c3"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          -2,
+          1
+        ],
+        "compat": 9,
+        "q_z": 1,
+        "allowed_z_range": [
+          0,
+          2
+        ],
+        "window_z_range": [
+          0,
+          2
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, 1, 0), (-2, 2, 0))",
+    "logic_type": "exclusion_or",
+    "depth": 3,
+    "exact_window": [
+      "c0",
+      "c1",
+      "c2"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          1,
+          0
+        ],
+        "compat": 153,
+        "q_z": 0,
+        "allowed_z_range": [
+          -1,
+          1
+        ],
+        "window_z_range": [
+          -1,
+          1
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, 1, 1), (-2, 2, 1))",
+    "logic_type": "exclusion_or",
+    "depth": 3,
+    "exact_window": [
+      "c1",
+      "c2",
+      "c3"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          1,
+          1
+        ],
+        "compat": 153,
+        "q_z": 1,
+        "allowed_z_range": [
+          0,
+          2
+        ],
+        "window_z_range": [
+          0,
+          2
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, -2, -1), (-2, -3, -1))",
+    "logic_type": "inclusion",
+    "depth": 2,
+    "exact_window": [
+      "c0",
+      "c1"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          -2,
+          -1
+        ],
+        "compat": 27,
+        "q_z": -1,
+        "allowed_z_range": [
+          -2,
+          0
+        ],
+        "window_z_range": [
+          -1,
+          0
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, 1, -1), (-2, 2, -1))",
+    "logic_type": "exclusion_or",
+    "depth": 2,
+    "exact_window": [
+      "c0",
+      "c1"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          1,
+          -1
+        ],
+        "compat": 189,
+        "q_z": -1,
+        "allowed_z_range": [
+          -2,
+          0
+        ],
+        "window_z_range": [
+          -1,
+          0
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, -2, -2), (-2, -3, -2))",
+    "logic_type": "inclusion",
+    "depth": 1,
+    "exact_window": [
+      "c0"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          -2,
+          -2
+        ],
+        "compat": 81,
+        "q_z": -2,
+        "allowed_z_range": [
+          -3,
+          -1
+        ],
+        "window_z_range": [
+          -1,
+          -1
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, -2, -2), (-2, -2, -3))",
+    "logic_type": "inclusion",
+    "depth": 1,
+    "exact_window": [
+      "c0"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          -2,
+          -2
+        ],
+        "compat": 81,
+        "q_z": -2,
+        "allowed_z_range": [
+          -3,
+          -1
+        ],
+        "window_z_range": [
+          -1,
+          -1
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, -1, -2), (-2, -1, -3))",
+    "logic_type": "inclusion",
+    "depth": 1,
+    "exact_window": [
+      "c0"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          -1,
+          -2
+        ],
+        "compat": 81,
+        "q_z": -2,
+        "allowed_z_range": [
+          -3,
+          -1
+        ],
+        "window_z_range": [
+          -1,
+          -1
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, 0, -2), (-2, 0, -3))",
+    "logic_type": "inclusion",
+    "depth": 1,
+    "exact_window": [
+      "c0"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          0,
+          -2
+        ],
+        "compat": 81,
+        "q_z": -2,
+        "allowed_z_range": [
+          -3,
+          -1
+        ],
+        "window_z_range": [
+          -1,
+          -1
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, 1, -2), (-2, 1, -3))",
+    "logic_type": "exclusion",
+    "depth": 1,
+    "exact_window": [
+      "c0"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          1,
+          -2
+        ],
+        "compat": 243,
+        "q_z": -2,
+        "allowed_z_range": [
+          -3,
+          -1
+        ],
+        "window_z_range": [
+          -1,
+          -1
+        ],
+        "fits": true
+      }
+    ]
+  },
+  {
+    "orbit_id": "((-3, 1, -2), (-2, 2, -2))",
+    "logic_type": "exclusion",
+    "depth": 1,
+    "exact_window": [
+      "c0"
+    ],
+    "status": "PASS",
+    "detail": [
+      {
+        "q": [
+          -2,
+          1,
+          -2
+        ],
+        "compat": 243,
+        "q_z": -2,
+        "allowed_z_range": [
+          -3,
+          -1
+        ],
+        "window_z_range": [
+          -1,
+          -1
+        ],
+        "fits": true
+      }
+    ]
+  }
+]

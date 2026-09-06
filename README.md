@@ -9,11 +9,14 @@ article above. It contains the finite data underlying the stabilization
 argument, the finite local-decision classification, the supplementary
 short-chain examples, and the supplied verification scripts.
 
-The verification scripts in `VERIFY/` are **consistency verifiers for the
-finite data provided in this repository**: they check that the included
-tables, counts, and classifications are internally consistent with one
-another. They are **not** raw-state generators and do not recompute every
-underlying object of the article from first principles.
+The repository separates **verification** from **generation/reproduction**.
+The scripts in `VERIFY/` check the published finite tables and classifications
+for internal consistency. The publication-facing launchers in `REPRODUCE/`
+regenerate the complete Main-Theorem-A closure/quotient, reconstruct the public
+local-decision tables from the certified B7 registry, and generate the short-chain
+walk families. Historical source lineage is retained separately so the public
+wrappers do not silently replace scientific semantics with a new implementation.
+The exact boundary of each pipeline is documented in `REPRODUCIBILITY.md`.
 
 ## Contents
 
@@ -29,11 +32,34 @@ underlying object of the article from first principles.
 - `FINITE_COMPATIBILITY_DATA/` — finite short-chain tables (chain lengths
   L = 3, 4, 5) and a representative witness supporting the supplementary
   theory note.
-- `VERIFY/` — the three consistency-verification scripts described above.
+- `VERIFY/` — compact consistency-verification scripts for the published finite outputs.
+- `REPRODUCE/` — publication-facing reproduction launchers, recovered generation/enumeration source, and source-archive provenance.
+- `REPRODUCIBILITY.md` — exact command map, completeness gates, tested anchors, and claim boundaries.
+- `requirements.txt` — dependency required by the recovered Main-Theorem-A generator.
 - `SHA256SUMS.txt` — checksums for every payload file in this distribution.
 
 Each subdirectory contains its own `README.md` with a more detailed,
 directory-specific description of its contents.
+
+## Running the reproduction layer
+
+From the repository root:
+
+```bash
+# Complete, fail-closed Main-Theorem-A closure + quotient (k=6 smoke)
+python REPRODUCE/reproduce_stabilization.py --k 6 --output build/stabilization
+
+# Certified B7 registry -> public 117-key local-decision tables
+python REPRODUCE/reproduce_local_decision.py --output build/local_decision
+
+# Fresh L=3,4,5 walk-family generation and PWC checks
+python REPRODUCE/reproduce_finite_compatibility.py --mode smoke --output build/finite_compatibility
+```
+
+See `REPRODUCIBILITY.md` before interpreting these commands: Main B retains a
+documented deep-history predecessor-archive boundary, and the 76-orbit L=5
+compatibility census remains a frozen input rather than a freshly generated
+classification.
 
 ## Running the verification checks
 
@@ -60,9 +86,10 @@ All entries are expected to report `OK`.
 
 ## Relationship to Online Resource 1
 
-This repository mirrors the contents of the `ESM_1.zip` package submitted
-as Online Resource 1 for the article. The two are intended to be equivalent
-distributions of the same finite data and verification scripts.
+The original v1.0.1 repository mirrored the finite-data/verification content of the
+submission supplement.  Release v1.0.2 additionally restores the generation/enumeration source lineage
+under `REPRODUCE/` while preserving the published finite outputs and their
+verification scripts.
 
 ## No external data
 

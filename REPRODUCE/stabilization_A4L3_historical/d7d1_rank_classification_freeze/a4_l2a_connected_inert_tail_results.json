@@ -1,0 +1,15 @@
+{
+  "action_edges_audited": 4035,
+  "base_k": 8,
+  "claim_boundary": "Finite hypotheses plus a structural inert-tail lifting proof establish behavioral persistence for the 31 non-T12 formal families. This does not prove the 22 T12 families, root reachability, or all-k exhaustiveness.",
+  "connected_class_count": 31,
+  "descendant_states_audited": 2869,
+  "excluded_t12_class_count": 22,
+  "failures": [],
+  "geometry_regression_k_range": [
+    8,
+    100
+  ],
+  "k9_frozen_key_matches": 31,
+  "scope": "A4-L2a(i) connected-satellite classes only; T12 isolated-satellite classes excluded"
+}

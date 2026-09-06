@@ -1,0 +1,60 @@
+{
+  "family": {
+    "base_X0": [
+      [
+        -3,
+        -1,
+        -1
+      ],
+      [
+        -1,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        -1
+      ],
+      [
+        0,
+        -1,
+        0
+      ],
+      [
+        0,
+        2,
+        -1
+      ]
+    ],
+    "box_min": [
+      -5,
+      -3,
+      -3
+    ],
+    "box_max": [
+      2,
+      4,
+      2
+    ],
+    "window_point_count": 384,
+    "raw_one_voxel_extensions": 379,
+    "isometry_quotient_states": 212,
+    "constraint": "valid N1 single-add repair exists and no such repair is dual-role N1/N2"
+  },
+  "defective_orbits": 211,
+  "orbits_with_valid_N1_repairs": 173,
+  "no_dual_role_orbits": 0,
+  "depth_distribution": {},
+  "depth_ge_3_count": 0,
+  "atomic_unreachable_count": 0,
+  "macro2_recoverable_atomic_unreachable_count": 0,
+  "depth_ge_3_hits": [],
+  "atomic_unreachable_hits": [],
+  "audits": [],
+  "stop_rule": {
+    "depth_ge_3": false,
+    "atomic_unreachable": false,
+    "family_exhausted": true
+  }
+}

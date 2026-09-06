@@ -1,0 +1,31 @@
+{
+  "a": [
+    -3,
+    -2,
+    -2
+  ],
+  "b": [
+    -2,
+    -3,
+    -2
+  ],
+  "q": [
+    -2,
+    -2,
+    -2
+  ],
+  "n_true": 9,
+  "n_false": 27,
+  "restriction_classes": {
+    "((-1, -1, -1),)": {
+      "n": 9,
+      "uniform": true,
+      "verdict": true
+    },
+    "()": {
+      "n": 27,
+      "uniform": true,
+      "verdict": false
+    }
+  }
+}
