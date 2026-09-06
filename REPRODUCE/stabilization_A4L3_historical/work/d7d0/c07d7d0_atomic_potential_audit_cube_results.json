@@ -1,0 +1,26 @@
+{
+  "checkpoint": "C07-D7D0",
+  "status": "PASS",
+  "scope": {
+    "cube": "all 255 nonempty subsets of {0,1}^3",
+    "d7b": "all declared 150 initial states, their distinct N1 successors, and all states on each recorded first shortest plan"
+  },
+  "stop_rule": "first violation writes counterexample JSON and aborts",
+  "suite_state_counts": {
+    "cube_nonempty_subsets": 255
+  },
+  "counters": {
+    "n1_repair_contact_checks": 176,
+    "phi_drop_1": 72,
+    "phi_drop_2": 120,
+    "phi_drop_3": 8,
+    "role_occurrences_N1": 176,
+    "role_occurrences_N2": 128,
+    "states_audited": 255,
+    "states_defective": 124,
+    "states_valid": 131,
+    "suite_transitions_cube": 200,
+    "transitions_audited": 200
+  },
+  "counterexample_file_created": false
+}

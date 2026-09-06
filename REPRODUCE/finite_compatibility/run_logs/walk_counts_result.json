@@ -1,0 +1,28 @@
+[
+  {
+    "L": 3,
+    "universe_size": 20,
+    "m0": 3,
+    "M0_size": 36,
+    "reference_equality": true,
+    "pwc_pass": 36,
+    "method": "fresh_exhaustive"
+  },
+  {
+    "L": 4,
+    "universe_size": 24,
+    "m0": 4,
+    "M0_size": 108,
+    "reference_equality": true,
+    "pwc_pass": 108,
+    "method": "lower_sizes_exhaustive_plus_walk_generation"
+  },
+  {
+    "L": 5,
+    "m0": 5,
+    "M0_size": 324,
+    "reference_equality": true,
+    "pwc_pass": 324,
+    "method": "walk_generation_plus_frozen_exact_equality"
+  }
+]

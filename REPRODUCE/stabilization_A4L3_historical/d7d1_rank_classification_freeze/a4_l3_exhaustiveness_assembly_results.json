@@ -1,0 +1,42 @@
+{
+  "base_k": 9,
+  "c3_class_count": 53,
+  "c4_class_count": 53,
+  "checks": {
+    "all_t12_starts_reachable_in_l2b_tree": true,
+    "c053_is_k9_root": true,
+    "c3_to_c4_partition_stable": true,
+    "class_rows_53": true,
+    "connected_key_set_equals_frozen_connected_31": true,
+    "connected_rows_31": true,
+    "isolated_key_set_equals_frozen_t12_22": true,
+    "l2b_failures_zero": true,
+    "l2b_reports_53_k9_targets": true,
+    "l2b_tree_shape_54_nodes_53_edges": true,
+    "observed_key_set_equals_frozen_53": true,
+    "satellite_type_violations_zero": true,
+    "t12_rows_22": true,
+    "union_equals_root_closure_by_two_inclusions": true
+  },
+  "claim_boundary": "Together with the proved A4-L2a arbitrary isolated-bridge normalization and A4-L2b reachability, this certifies Q_k = Q_9 = Q_6 for all k>=6 and hence R*(X_k)=3.",
+  "failures": [],
+  "l2b_tree_reachable_node_count": 54,
+  "observed_behavioral_key_count": 53,
+  "observed_connected_key_count": 31,
+  "observed_isolated_key_count": 22,
+  "root_closure_edge_count": 148722,
+  "root_closure_state_count": 87517,
+  "scope": "Finite k=9 proof assembly for A4-L3 exhaustiveness; the all-k step uses the proved A4-L2a(ii) path-word/front normalization.",
+  "state_layers": {
+    "connected_1": 57179,
+    "connected_2": 25211,
+    "connected_3": 4184,
+    "connected_4": 206,
+    "isolated_2": 517,
+    "isolated_3": 191,
+    "isolated_4": 28,
+    "isolated_5": 1
+  },
+  "t12_start_count": 22,
+  "type_violation_count": 0
+}

@@ -1,0 +1,1354 @@
+{
+  "auxiliary_node_count": 1,
+  "claim_boundary": "Proves reachability of the 53 formal A4-L1b families. Does not prove A4-L3 exhaustiveness or Q_k ~= Q_6 for all k.",
+  "class_count": 53,
+  "depth_histogram_k6": {
+    "0": 1,
+    "1": 27,
+    "2": 24,
+    "3": 1
+  },
+  "depth_histogram_k9": {
+    "0": 1,
+    "1": 27,
+    "2": 24,
+    "3": 1
+  },
+  "edge_kind_counts": {
+    "aux_fixed": 1,
+    "nonroot_fixed": 24,
+    "root_fixed": 16,
+    "root_satellite": 12
+  },
+  "edges": [
+    {
+      "k6_addition_size": 1,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        -1,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 1,
+      "kind": "nonroot_fixed",
+      "source": "C017",
+      "target": "C008"
+    },
+    {
+      "k6_addition_size": 1,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        -1,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 1,
+      "kind": "nonroot_fixed",
+      "source": "C020",
+      "target": "C010"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "+y",
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 3,
+      "kind": "nonroot_fixed",
+      "source": "C029",
+      "target": "C001"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 2,
+      "kind": "nonroot_fixed",
+      "source": "C029",
+      "target": "C004"
+    },
+    {
+      "k6_addition_size": 1,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        -1,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 1,
+      "kind": "nonroot_fixed",
+      "source": "C029",
+      "target": "C005"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "+y",
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 3,
+      "kind": "nonroot_fixed",
+      "source": "C040",
+      "target": "C002"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 2,
+      "kind": "nonroot_fixed",
+      "source": "C040",
+      "target": "C023"
+    },
+    {
+      "k6_addition_size": 1,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        -1,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 1,
+      "kind": "nonroot_fixed",
+      "source": "C040",
+      "target": "C024"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -3,
+        1,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+x",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 3,
+      "kind": "nonroot_fixed",
+      "source": "C041",
+      "target": "C025"
+    },
+    {
+      "k6_addition_size": 1,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        -1,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 1,
+      "kind": "nonroot_fixed",
+      "source": "C045",
+      "target": "C027"
+    },
+    {
+      "k6_addition_size": 1,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        -1,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 1,
+      "kind": "nonroot_fixed",
+      "source": "C048",
+      "target": "C014"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "+y",
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 3,
+      "kind": "nonroot_fixed",
+      "source": "C049",
+      "target": "C003"
+    },
+    {
+      "k6_addition_size": 5,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "-z",
+        "+x",
+        "+x",
+        "+x",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 5,
+      "kind": "nonroot_fixed",
+      "source": "C049",
+      "target": "C007"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 2,
+      "kind": "nonroot_fixed",
+      "source": "C049",
+      "target": "C012"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+y",
+        "+y"
+      ],
+      "k9_addition_size": 2,
+      "kind": "nonroot_fixed",
+      "source": "C049",
+      "target": "C013"
+    },
+    {
+      "k6_addition_size": 1,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        -1,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 1,
+      "kind": "nonroot_fixed",
+      "source": "C049",
+      "target": "C028"
+    },
+    {
+      "k6_addition_size": 5,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "-z",
+        "+x",
+        "+x",
+        "+x",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 5,
+      "kind": "nonroot_fixed",
+      "source": "C051",
+      "target": "C009"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "+y",
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 3,
+      "kind": "nonroot_fixed",
+      "source": "C051",
+      "target": "C011"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 2,
+      "kind": "nonroot_fixed",
+      "source": "C051",
+      "target": "C018"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+y",
+        "+y"
+      ],
+      "k9_addition_size": 2,
+      "kind": "nonroot_fixed",
+      "source": "C051",
+      "target": "C019"
+    },
+    {
+      "k6_addition_size": 5,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "-z",
+        "+y",
+        "+x",
+        "+x",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 5,
+      "kind": "nonroot_fixed",
+      "source": "C051",
+      "target": "C020"
+    },
+    {
+      "k6_addition_size": 1,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        -1,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 1,
+      "kind": "nonroot_fixed",
+      "source": "C051",
+      "target": "C034"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 2,
+      "kind": "nonroot_fixed",
+      "source": "C052",
+      "target": "C032"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+y",
+        "+y"
+      ],
+      "k9_addition_size": 2,
+      "kind": "nonroot_fixed",
+      "source": "C052",
+      "target": "C033"
+    },
+    {
+      "fixed_target_endpoint": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_addition_size": 5,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "-y",
+        "-y",
+        "-y",
+        "-z",
+        "+x"
+      ],
+      "k9_addition_size": 8,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C015",
+      "variable_x_insertion_index": 0
+    },
+    {
+      "fixed_target_endpoint": [
+        0,
+        2,
+        -1
+      ],
+      "k6_addition_size": 6,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "+x",
+        "+x",
+        "+x",
+        "-z",
+        "+x"
+      ],
+      "k9_addition_size": 9,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C016",
+      "variable_x_insertion_index": 0
+    },
+    {
+      "fixed_target_endpoint": [
+        0,
+        2,
+        -1
+      ],
+      "k6_addition_size": 6,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "-z",
+        "+x",
+        "+x",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 9,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C017",
+      "variable_x_insertion_index": 0
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "+y",
+        "+y",
+        "+x",
+        "+y"
+      ],
+      "k9_addition_size": 3,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C021"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "+y",
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 3,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C022"
+    },
+    {
+      "k6_addition_size": 5,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "-z",
+        "+x",
+        "+x",
+        "+x",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 5,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C026"
+    },
+    {
+      "fixed_target_endpoint": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_addition_size": 5,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-y",
+        "+x",
+        "+x",
+        "-y",
+        "-y",
+        "-z",
+        "+x"
+      ],
+      "k9_addition_size": 8,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C029",
+      "variable_x_insertion_index": 1
+    },
+    {
+      "fixed_target_endpoint": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_addition_size": 5,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-y",
+        "+x",
+        "+x",
+        "-y",
+        "-z",
+        "+x",
+        "-y"
+      ],
+      "k9_addition_size": 8,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C030",
+      "variable_x_insertion_index": 1
+    },
+    {
+      "fixed_target_endpoint": [
+        0,
+        2,
+        -1
+      ],
+      "k6_addition_size": 6,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "+x",
+        "+x",
+        "-z",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 9,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C031",
+      "variable_x_insertion_index": 0
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+x",
+        "+y"
+      ],
+      "k9_addition_size": 2,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C035"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+y",
+        "+x"
+      ],
+      "k9_addition_size": 2,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C036"
+    },
+    {
+      "k6_addition_size": 2,
+      "k6_s": [
+        -1,
+        0,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+y",
+        "+y"
+      ],
+      "k9_addition_size": 2,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C037"
+    },
+    {
+      "k6_addition_size": 1,
+      "k6_s": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_t": [
+        -1,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 1,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C038"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-y",
+        "-y",
+        "+x",
+        "-z"
+      ],
+      "k9_addition_size": 3,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C039"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-y",
+        "-y",
+        "-z",
+        "+x"
+      ],
+      "k9_addition_size": 3,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C040"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-z",
+        "+x",
+        "-y",
+        "-y"
+      ],
+      "k9_addition_size": 3,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C041"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-z",
+        "-y",
+        "+x",
+        "-y"
+      ],
+      "k9_addition_size": 3,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C042"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-z",
+        "-y",
+        "-y",
+        "+x"
+      ],
+      "k9_addition_size": 3,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C043"
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-y",
+        "-z",
+        "+x",
+        "-y"
+      ],
+      "k9_addition_size": 3,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C044"
+    },
+    {
+      "k6_addition_size": 5,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "-z",
+        "+y",
+        "+x",
+        "+x",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 5,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C045"
+    },
+    {
+      "k6_addition_size": 5,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "-z",
+        "+x",
+        "+x",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 5,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C046"
+    },
+    {
+      "k6_addition_size": 5,
+      "k6_s": [
+        -4,
+        1,
+        0
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+x",
+        "+x",
+        "-z",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 5,
+      "kind": "root_fixed",
+      "source": "C053",
+      "target": "C047"
+    },
+    {
+      "fixed_target_endpoint": [
+        -4,
+        1,
+        0
+      ],
+      "k6_addition_size": 2,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        -4,
+        1,
+        0
+      ],
+      "k6_word": [
+        "+x",
+        "+x",
+        "-y"
+      ],
+      "k9_addition_size": 5,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C048",
+      "variable_x_insertion_index": 0
+    },
+    {
+      "fixed_target_endpoint": [
+        -4,
+        1,
+        0
+      ],
+      "k6_addition_size": 2,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        -4,
+        1,
+        0
+      ],
+      "k6_word": [
+        "-y",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 5,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C049",
+      "variable_x_insertion_index": 1
+    },
+    {
+      "fixed_target_endpoint": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_addition_size": 6,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-z",
+        "-y",
+        "-y",
+        "-y",
+        "+x",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 9,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C050",
+      "variable_x_insertion_index": 0
+    },
+    {
+      "fixed_target_endpoint": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_addition_size": 6,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-y",
+        "-y",
+        "-y",
+        "-z",
+        "+x",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 9,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C051",
+      "variable_x_insertion_index": 4
+    },
+    {
+      "fixed_target_endpoint": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_addition_size": 6,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-y",
+        "-y",
+        "-y",
+        "+x",
+        "+x",
+        "+x",
+        "-z"
+      ],
+      "k9_addition_size": 9,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "C052",
+      "variable_x_insertion_index": 3
+    },
+    {
+      "fixed_target_endpoint": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_addition_size": 5,
+      "k6_s": [
+        -6,
+        2,
+        0
+      ],
+      "k6_t": [
+        -3,
+        -1,
+        -1
+      ],
+      "k6_word": [
+        "-y",
+        "+x",
+        "+x",
+        "-z",
+        "+x",
+        "-y",
+        "-y"
+      ],
+      "k9_addition_size": 8,
+      "kind": "root_satellite",
+      "source": "C053",
+      "target": "U",
+      "variable_x_insertion_index": 1
+    },
+    {
+      "k6_addition_size": 3,
+      "k6_s": [
+        -3,
+        1,
+        -1
+      ],
+      "k6_t": [
+        0,
+        2,
+        -1
+      ],
+      "k6_word": [
+        "+y",
+        "+x",
+        "+x",
+        "+x"
+      ],
+      "k9_addition_size": 3,
+      "kind": "aux_fixed",
+      "source": "U",
+      "target": "C006"
+    }
+  ],
+  "failures": [],
+  "k6_reachable_formal_classes": 53,
+  "k9_reachable_formal_classes": 53,
+  "regression_edge_k_cases": 5035,
+  "regression_k_range": [
+    6,
+    100
+  ],
+  "root_satellite_fixed_compatibility_front_count": 12,
+  "root_satellite_path_family_count": 12,
+  "scope": "A4-L2b reachability witness skeleton; exact k=6/k=9 reconstruction plus closed-form witness regression. Full closure is not enumerated.",
+  "tree_edge_count": 53,
+  "tree_node_count": 54
+}

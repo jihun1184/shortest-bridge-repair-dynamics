@@ -1,0 +1,2377 @@
+{
+  "checkpoint": "C07-D7D1 rank classification (final)",
+  "total_roots": 262,
+  "total_D7B_depth3_states": 131,
+  "roots_R_star_3": 12,
+  "roots_R_star_4": 250,
+  "states_both_R_star_3": [
+    15,
+    79,
+    89,
+    197,
+    206,
+    207
+  ],
+  "states_both_R_star_4_count": 125,
+  "mixed_states": [],
+  "roots": [
+    {
+      "root_id": "orbit_0:repair_0",
+      "orbit_index": 0,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5770,
+      "transition_count": 11472
+    },
+    {
+      "root_id": "orbit_0:repair_1",
+      "orbit_index": 0,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5159,
+      "transition_count": 10345
+    },
+    {
+      "root_id": "orbit_11:repair_0",
+      "orbit_index": 11,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 2006,
+      "transition_count": 3374
+    },
+    {
+      "root_id": "orbit_11:repair_1",
+      "orbit_index": 11,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 1816,
+      "transition_count": 3073
+    },
+    {
+      "root_id": "orbit_12:repair_0",
+      "orbit_index": 12,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 25671,
+      "transition_count": 42550
+    },
+    {
+      "root_id": "orbit_12:repair_1",
+      "orbit_index": 12,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 20847,
+      "transition_count": 36125
+    },
+    {
+      "root_id": "orbit_15:repair_0",
+      "orbit_index": 15,
+      "repair_index": 0,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 6289,
+      "transition_count": 10958
+    },
+    {
+      "root_id": "orbit_15:repair_1",
+      "orbit_index": 15,
+      "repair_index": 1,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 4914,
+      "transition_count": 8975
+    },
+    {
+      "root_id": "orbit_16:repair_0",
+      "orbit_index": 16,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4327,
+      "transition_count": 8466
+    },
+    {
+      "root_id": "orbit_16:repair_1",
+      "orbit_index": 16,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 3783,
+      "transition_count": 7349
+    },
+    {
+      "root_id": "orbit_19:repair_0",
+      "orbit_index": 19,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 31888,
+      "transition_count": 59130
+    },
+    {
+      "root_id": "orbit_19:repair_1",
+      "orbit_index": 19,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 29439,
+      "transition_count": 54460
+    },
+    {
+      "root_id": "orbit_33:repair_0",
+      "orbit_index": 33,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 1099,
+      "transition_count": 1865
+    },
+    {
+      "root_id": "orbit_33:repair_1",
+      "orbit_index": 33,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 1260,
+      "transition_count": 2186
+    },
+    {
+      "root_id": "orbit_39:repair_0",
+      "orbit_index": 39,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 15610,
+      "transition_count": 26157
+    },
+    {
+      "root_id": "orbit_39:repair_1",
+      "orbit_index": 39,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 14658,
+      "transition_count": 24330
+    },
+    {
+      "root_id": "orbit_56:repair_0",
+      "orbit_index": 56,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 51162,
+      "transition_count": 81854
+    },
+    {
+      "root_id": "orbit_56:repair_1",
+      "orbit_index": 56,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 47235,
+      "transition_count": 75584
+    },
+    {
+      "root_id": "orbit_60:repair_0",
+      "orbit_index": 60,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 19088,
+      "transition_count": 29820
+    },
+    {
+      "root_id": "orbit_60:repair_1",
+      "orbit_index": 60,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 18654,
+      "transition_count": 29081
+    },
+    {
+      "root_id": "orbit_73:repair_0",
+      "orbit_index": 73,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 7221,
+      "transition_count": 12128
+    },
+    {
+      "root_id": "orbit_73:repair_1",
+      "orbit_index": 73,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 8415,
+      "transition_count": 13260
+    },
+    {
+      "root_id": "orbit_74:repair_0",
+      "orbit_index": 74,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 12028,
+      "transition_count": 21698
+    },
+    {
+      "root_id": "orbit_74:repair_1",
+      "orbit_index": 74,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 10928,
+      "transition_count": 19690
+    },
+    {
+      "root_id": "orbit_77:repair_0",
+      "orbit_index": 77,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 3871,
+      "transition_count": 7138
+    },
+    {
+      "root_id": "orbit_77:repair_1",
+      "orbit_index": 77,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 3533,
+      "transition_count": 6508
+    },
+    {
+      "root_id": "orbit_78:repair_0",
+      "orbit_index": 78,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 20542,
+      "transition_count": 39050
+    },
+    {
+      "root_id": "orbit_78:repair_1",
+      "orbit_index": 78,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 18395,
+      "transition_count": 35112
+    },
+    {
+      "root_id": "orbit_79:repair_0",
+      "orbit_index": 79,
+      "repair_index": 0,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 9524,
+      "transition_count": 18824
+    },
+    {
+      "root_id": "orbit_79:repair_1",
+      "orbit_index": 79,
+      "repair_index": 1,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 8540,
+      "transition_count": 16874
+    },
+    {
+      "root_id": "orbit_85:repair_0",
+      "orbit_index": 85,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 6477,
+      "transition_count": 10799
+    },
+    {
+      "root_id": "orbit_85:repair_1",
+      "orbit_index": 85,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 6011,
+      "transition_count": 10051
+    },
+    {
+      "root_id": "orbit_86:repair_0",
+      "orbit_index": 86,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 46299,
+      "transition_count": 79628
+    },
+    {
+      "root_id": "orbit_86:repair_1",
+      "orbit_index": 86,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 38773,
+      "transition_count": 67936
+    },
+    {
+      "root_id": "orbit_89:repair_0",
+      "orbit_index": 89,
+      "repair_index": 0,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 11651,
+      "transition_count": 21167
+    },
+    {
+      "root_id": "orbit_89:repair_1",
+      "orbit_index": 89,
+      "repair_index": 1,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 9586,
+      "transition_count": 17903
+    },
+    {
+      "root_id": "orbit_97:repair_0",
+      "orbit_index": 97,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17943,
+      "transition_count": 28786
+    },
+    {
+      "root_id": "orbit_97:repair_1",
+      "orbit_index": 97,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 16995,
+      "transition_count": 27474
+    },
+    {
+      "root_id": "orbit_98:repair_0",
+      "orbit_index": 98,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 91901,
+      "transition_count": 153554
+    },
+    {
+      "root_id": "orbit_98:repair_1",
+      "orbit_index": 98,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 73381,
+      "transition_count": 119909
+    },
+    {
+      "root_id": "orbit_99:repair_0",
+      "orbit_index": 99,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4431,
+      "transition_count": 7019
+    },
+    {
+      "root_id": "orbit_99:repair_1",
+      "orbit_index": 99,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4041,
+      "transition_count": 6470
+    },
+    {
+      "root_id": "orbit_100:repair_0",
+      "orbit_index": 100,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 39233,
+      "transition_count": 63283
+    },
+    {
+      "root_id": "orbit_100:repair_1",
+      "orbit_index": 100,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 34551,
+      "transition_count": 54311
+    },
+    {
+      "root_id": "orbit_101:repair_0",
+      "orbit_index": 101,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 2723,
+      "transition_count": 4757
+    },
+    {
+      "root_id": "orbit_101:repair_1",
+      "orbit_index": 101,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 2351,
+      "transition_count": 4147
+    },
+    {
+      "root_id": "orbit_102:repair_0",
+      "orbit_index": 102,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 28785,
+      "transition_count": 49476
+    },
+    {
+      "root_id": "orbit_102:repair_1",
+      "orbit_index": 102,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 23926,
+      "transition_count": 40358
+    },
+    {
+      "root_id": "orbit_103:repair_0",
+      "orbit_index": 103,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 26498,
+      "transition_count": 46512
+    },
+    {
+      "root_id": "orbit_103:repair_1",
+      "orbit_index": 103,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 21910,
+      "transition_count": 39015
+    },
+    {
+      "root_id": "orbit_104:repair_0",
+      "orbit_index": 104,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 6733,
+      "transition_count": 12811
+    },
+    {
+      "root_id": "orbit_104:repair_1",
+      "orbit_index": 104,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5903,
+      "transition_count": 11133
+    },
+    {
+      "root_id": "orbit_105:repair_0",
+      "orbit_index": 105,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 14945,
+      "transition_count": 29775
+    },
+    {
+      "root_id": "orbit_105:repair_1",
+      "orbit_index": 105,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 12799,
+      "transition_count": 25402
+    },
+    {
+      "root_id": "orbit_107:repair_0",
+      "orbit_index": 107,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 63592,
+      "transition_count": 114808
+    },
+    {
+      "root_id": "orbit_107:repair_1",
+      "orbit_index": 107,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 58190,
+      "transition_count": 104237
+    },
+    {
+      "root_id": "orbit_109:repair_0",
+      "orbit_index": 109,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 161178,
+      "transition_count": 282111
+    },
+    {
+      "root_id": "orbit_109:repair_1",
+      "orbit_index": 109,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 154226,
+      "transition_count": 268293
+    },
+    {
+      "root_id": "orbit_111:repair_0",
+      "orbit_index": 111,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 19426,
+      "transition_count": 33652
+    },
+    {
+      "root_id": "orbit_111:repair_1",
+      "orbit_index": 111,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 18237,
+      "transition_count": 31475
+    },
+    {
+      "root_id": "orbit_113:repair_0",
+      "orbit_index": 113,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 1530,
+      "transition_count": 2809
+    },
+    {
+      "root_id": "orbit_113:repair_1",
+      "orbit_index": 113,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 1329,
+      "transition_count": 2420
+    },
+    {
+      "root_id": "orbit_114:repair_0",
+      "orbit_index": 114,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17785,
+      "transition_count": 29896
+    },
+    {
+      "root_id": "orbit_114:repair_1",
+      "orbit_index": 114,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 14772,
+      "transition_count": 24147
+    },
+    {
+      "root_id": "orbit_117:repair_0",
+      "orbit_index": 117,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 6401,
+      "transition_count": 11078
+    },
+    {
+      "root_id": "orbit_117:repair_1",
+      "orbit_index": 117,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5400,
+      "transition_count": 9407
+    },
+    {
+      "root_id": "orbit_118:repair_0",
+      "orbit_index": 118,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4154,
+      "transition_count": 7793
+    },
+    {
+      "root_id": "orbit_118:repair_1",
+      "orbit_index": 118,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 3564,
+      "transition_count": 6665
+    },
+    {
+      "root_id": "orbit_121:repair_0",
+      "orbit_index": 121,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 18607,
+      "transition_count": 32516
+    },
+    {
+      "root_id": "orbit_121:repair_1",
+      "orbit_index": 121,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17071,
+      "transition_count": 29430
+    },
+    {
+      "root_id": "orbit_123:repair_0",
+      "orbit_index": 123,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17265,
+      "transition_count": 27699
+    },
+    {
+      "root_id": "orbit_123:repair_1",
+      "orbit_index": 123,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 16007,
+      "transition_count": 25683
+    },
+    {
+      "root_id": "orbit_127:repair_0",
+      "orbit_index": 127,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4080,
+      "transition_count": 7004
+    },
+    {
+      "root_id": "orbit_127:repair_1",
+      "orbit_index": 127,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4535,
+      "transition_count": 8022
+    },
+    {
+      "root_id": "orbit_128:repair_0",
+      "orbit_index": 128,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 1126,
+      "transition_count": 2002
+    },
+    {
+      "root_id": "orbit_128:repair_1",
+      "orbit_index": 128,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 1143,
+      "transition_count": 2141
+    },
+    {
+      "root_id": "orbit_129:repair_0",
+      "orbit_index": 129,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5440,
+      "transition_count": 9970
+    },
+    {
+      "root_id": "orbit_129:repair_1",
+      "orbit_index": 129,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5071,
+      "transition_count": 9328
+    },
+    {
+      "root_id": "orbit_137:repair_0",
+      "orbit_index": 137,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 60685,
+      "transition_count": 93969
+    },
+    {
+      "root_id": "orbit_137:repair_1",
+      "orbit_index": 137,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 56105,
+      "transition_count": 87124
+    },
+    {
+      "root_id": "orbit_139:repair_0",
+      "orbit_index": 139,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17396,
+      "transition_count": 29332
+    },
+    {
+      "root_id": "orbit_139:repair_1",
+      "orbit_index": 139,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 16211,
+      "transition_count": 27187
+    },
+    {
+      "root_id": "orbit_141:repair_0",
+      "orbit_index": 141,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 30693,
+      "transition_count": 55843
+    },
+    {
+      "root_id": "orbit_141:repair_1",
+      "orbit_index": 141,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 29131,
+      "transition_count": 53117
+    },
+    {
+      "root_id": "orbit_145:repair_0",
+      "orbit_index": 145,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 18645,
+      "transition_count": 33783
+    },
+    {
+      "root_id": "orbit_145:repair_1",
+      "orbit_index": 145,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17346,
+      "transition_count": 31556
+    },
+    {
+      "root_id": "orbit_154:repair_0",
+      "orbit_index": 154,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 12987,
+      "transition_count": 24664
+    },
+    {
+      "root_id": "orbit_154:repair_1",
+      "orbit_index": 154,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 12092,
+      "transition_count": 22898
+    },
+    {
+      "root_id": "orbit_156:repair_0",
+      "orbit_index": 156,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 20763,
+      "transition_count": 37602
+    },
+    {
+      "root_id": "orbit_156:repair_1",
+      "orbit_index": 156,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 18624,
+      "transition_count": 33779
+    },
+    {
+      "root_id": "orbit_158:repair_0",
+      "orbit_index": 158,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 208108,
+      "transition_count": 368206
+    },
+    {
+      "root_id": "orbit_158:repair_1",
+      "orbit_index": 158,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 194761,
+      "transition_count": 345348
+    },
+    {
+      "root_id": "orbit_160:repair_0",
+      "orbit_index": 160,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 138098,
+      "transition_count": 237319
+    },
+    {
+      "root_id": "orbit_160:repair_1",
+      "orbit_index": 160,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 128915,
+      "transition_count": 221870
+    },
+    {
+      "root_id": "orbit_162:repair_0",
+      "orbit_index": 162,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 91107,
+      "transition_count": 159289
+    },
+    {
+      "root_id": "orbit_162:repair_1",
+      "orbit_index": 162,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 85566,
+      "transition_count": 149616
+    },
+    {
+      "root_id": "orbit_164:repair_0",
+      "orbit_index": 164,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 63973,
+      "transition_count": 112627
+    },
+    {
+      "root_id": "orbit_164:repair_1",
+      "orbit_index": 164,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 60911,
+      "transition_count": 107442
+    },
+    {
+      "root_id": "orbit_175:repair_0",
+      "orbit_index": 175,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 103286,
+      "transition_count": 174363
+    },
+    {
+      "root_id": "orbit_175:repair_1",
+      "orbit_index": 175,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 94549,
+      "transition_count": 159216
+    },
+    {
+      "root_id": "orbit_179:repair_0",
+      "orbit_index": 179,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 29532,
+      "transition_count": 48729
+    },
+    {
+      "root_id": "orbit_179:repair_1",
+      "orbit_index": 179,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 29299,
+      "transition_count": 47778
+    },
+    {
+      "root_id": "orbit_184:repair_0",
+      "orbit_index": 184,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5022,
+      "transition_count": 9966
+    },
+    {
+      "root_id": "orbit_184:repair_1",
+      "orbit_index": 184,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 3815,
+      "transition_count": 7766
+    },
+    {
+      "root_id": "orbit_186:repair_0",
+      "orbit_index": 186,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5503,
+      "transition_count": 9982
+    },
+    {
+      "root_id": "orbit_186:repair_1",
+      "orbit_index": 186,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4879,
+      "transition_count": 8175
+    },
+    {
+      "root_id": "orbit_187:repair_0",
+      "orbit_index": 187,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 32326,
+      "transition_count": 54319
+    },
+    {
+      "root_id": "orbit_187:repair_1",
+      "orbit_index": 187,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 31447,
+      "transition_count": 51251
+    },
+    {
+      "root_id": "orbit_189:repair_0",
+      "orbit_index": 189,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 15164,
+      "transition_count": 26353
+    },
+    {
+      "root_id": "orbit_189:repair_1",
+      "orbit_index": 189,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17447,
+      "transition_count": 28779
+    },
+    {
+      "root_id": "orbit_192:repair_0",
+      "orbit_index": 192,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 13813,
+      "transition_count": 22796
+    },
+    {
+      "root_id": "orbit_192:repair_1",
+      "orbit_index": 192,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 19647,
+      "transition_count": 31309
+    },
+    {
+      "root_id": "orbit_195:repair_0",
+      "orbit_index": 195,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5474,
+      "transition_count": 10128
+    },
+    {
+      "root_id": "orbit_195:repair_1",
+      "orbit_index": 195,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5020,
+      "transition_count": 9265
+    },
+    {
+      "root_id": "orbit_196:repair_0",
+      "orbit_index": 196,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 46373,
+      "transition_count": 84910
+    },
+    {
+      "root_id": "orbit_196:repair_1",
+      "orbit_index": 196,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 41622,
+      "transition_count": 76142
+    },
+    {
+      "root_id": "orbit_197:repair_0",
+      "orbit_index": 197,
+      "repair_index": 0,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 21963,
+      "transition_count": 40300
+    },
+    {
+      "root_id": "orbit_197:repair_1",
+      "orbit_index": 197,
+      "repair_index": 1,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 19943,
+      "transition_count": 36363
+    },
+    {
+      "root_id": "orbit_201:repair_0",
+      "orbit_index": 201,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 6637,
+      "transition_count": 11362
+    },
+    {
+      "root_id": "orbit_201:repair_1",
+      "orbit_index": 201,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5941,
+      "transition_count": 10094
+    },
+    {
+      "root_id": "orbit_203:repair_0",
+      "orbit_index": 203,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 16599,
+      "transition_count": 28082
+    },
+    {
+      "root_id": "orbit_203:repair_1",
+      "orbit_index": 203,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 15493,
+      "transition_count": 26270
+    },
+    {
+      "root_id": "orbit_204:repair_0",
+      "orbit_index": 204,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 90118,
+      "transition_count": 159176
+    },
+    {
+      "root_id": "orbit_204:repair_1",
+      "orbit_index": 204,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 77109,
+      "transition_count": 136998
+    },
+    {
+      "root_id": "orbit_205:repair_0",
+      "orbit_index": 205,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 9059,
+      "transition_count": 16645
+    },
+    {
+      "root_id": "orbit_205:repair_1",
+      "orbit_index": 205,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 8172,
+      "transition_count": 14942
+    },
+    {
+      "root_id": "orbit_206:repair_0",
+      "orbit_index": 206,
+      "repair_index": 0,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 38311,
+      "transition_count": 73793
+    },
+    {
+      "root_id": "orbit_206:repair_1",
+      "orbit_index": 206,
+      "repair_index": 1,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 34265,
+      "transition_count": 65426
+    },
+    {
+      "root_id": "orbit_207:repair_0",
+      "orbit_index": 207,
+      "repair_index": 0,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 24368,
+      "transition_count": 46321
+    },
+    {
+      "root_id": "orbit_207:repair_1",
+      "orbit_index": 207,
+      "repair_index": 1,
+      "R_star": 3,
+      "method": "full_closure",
+      "reachable_state_count": 21014,
+      "transition_count": 40695
+    },
+    {
+      "root_id": "orbit_213:repair_0",
+      "orbit_index": 213,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 7108,
+      "transition_count": 12091
+    },
+    {
+      "root_id": "orbit_213:repair_1",
+      "orbit_index": 213,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 6419,
+      "transition_count": 10870
+    },
+    {
+      "root_id": "orbit_215:repair_0",
+      "orbit_index": 215,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 42376,
+      "transition_count": 66833
+    },
+    {
+      "root_id": "orbit_215:repair_1",
+      "orbit_index": 215,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 39886,
+      "transition_count": 63480
+    },
+    {
+      "root_id": "orbit_216:repair_0",
+      "orbit_index": 216,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 181536,
+      "transition_count": 304167
+    },
+    {
+      "root_id": "orbit_216:repair_1",
+      "orbit_index": 216,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 149736,
+      "transition_count": 246025
+    },
+    {
+      "root_id": "orbit_217:repair_0",
+      "orbit_index": 217,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 13926,
+      "transition_count": 22739
+    },
+    {
+      "root_id": "orbit_217:repair_1",
+      "orbit_index": 217,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 12782,
+      "transition_count": 20851
+    },
+    {
+      "root_id": "orbit_218:repair_0",
+      "orbit_index": 218,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 78946,
+      "transition_count": 134555
+    },
+    {
+      "root_id": "orbit_218:repair_1",
+      "orbit_index": 218,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 69402,
+      "transition_count": 116025
+    },
+    {
+      "root_id": "orbit_219:repair_0",
+      "orbit_index": 219,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 8702,
+      "transition_count": 15879
+    },
+    {
+      "root_id": "orbit_219:repair_1",
+      "orbit_index": 219,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 7754,
+      "transition_count": 14199
+    },
+    {
+      "root_id": "orbit_220:repair_0",
+      "orbit_index": 220,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 52633,
+      "transition_count": 95068
+    },
+    {
+      "root_id": "orbit_220:repair_1",
+      "orbit_index": 220,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 44386,
+      "transition_count": 79694
+    },
+    {
+      "root_id": "orbit_221:repair_0",
+      "orbit_index": 221,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 46145,
+      "transition_count": 81490
+    },
+    {
+      "root_id": "orbit_221:repair_1",
+      "orbit_index": 221,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 38266,
+      "transition_count": 69014
+    },
+    {
+      "root_id": "orbit_229:repair_0",
+      "orbit_index": 229,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 29678,
+      "transition_count": 50514
+    },
+    {
+      "root_id": "orbit_229:repair_1",
+      "orbit_index": 229,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 27753,
+      "transition_count": 47147
+    },
+    {
+      "root_id": "orbit_231:repair_0",
+      "orbit_index": 231,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 92294,
+      "transition_count": 142221
+    },
+    {
+      "root_id": "orbit_231:repair_1",
+      "orbit_index": 231,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 86366,
+      "transition_count": 135270
+    },
+    {
+      "root_id": "orbit_232:repair_0",
+      "orbit_index": 232,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 32871,
+      "transition_count": 48878
+    },
+    {
+      "root_id": "orbit_232:repair_1",
+      "orbit_index": 232,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 30123,
+      "transition_count": 45031
+    },
+    {
+      "root_id": "orbit_233:repair_0",
+      "orbit_index": 233,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 147161,
+      "transition_count": 236210
+    },
+    {
+      "root_id": "orbit_233:repair_1",
+      "orbit_index": 233,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 128433,
+      "transition_count": 200874
+    },
+    {
+      "root_id": "orbit_234:repair_0",
+      "orbit_index": 234,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 20160,
+      "transition_count": 31760
+    },
+    {
+      "root_id": "orbit_234:repair_1",
+      "orbit_index": 234,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 18293,
+      "transition_count": 29327
+    },
+    {
+      "root_id": "orbit_235:repair_0",
+      "orbit_index": 235,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 173063,
+      "transition_count": 280459
+    },
+    {
+      "root_id": "orbit_235:repair_1",
+      "orbit_index": 235,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 151418,
+      "transition_count": 236880
+    },
+    {
+      "root_id": "orbit_236:repair_0",
+      "orbit_index": 236,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 10794,
+      "transition_count": 18148
+    },
+    {
+      "root_id": "orbit_236:repair_1",
+      "orbit_index": 236,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 9774,
+      "transition_count": 16702
+    },
+    {
+      "root_id": "orbit_237:repair_0",
+      "orbit_index": 237,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 158914,
+      "transition_count": 263617
+    },
+    {
+      "root_id": "orbit_237:repair_1",
+      "orbit_index": 237,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 135912,
+      "transition_count": 220944
+    },
+    {
+      "root_id": "orbit_238:repair_0",
+      "orbit_index": 238,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 91894,
+      "transition_count": 154788
+    },
+    {
+      "root_id": "orbit_238:repair_1",
+      "orbit_index": 238,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 76493,
+      "transition_count": 129087
+    },
+    {
+      "root_id": "orbit_239:repair_0",
+      "orbit_index": 239,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 32614,
+      "transition_count": 63611
+    },
+    {
+      "root_id": "orbit_239:repair_1",
+      "orbit_index": 239,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 28292,
+      "transition_count": 54693
+    },
+    {
+      "root_id": "orbit_241:repair_0",
+      "orbit_index": 241,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 127040,
+      "transition_count": 227916
+    },
+    {
+      "root_id": "orbit_241:repair_1",
+      "orbit_index": 241,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 115488,
+      "transition_count": 204883
+    },
+    {
+      "root_id": "orbit_243:repair_0",
+      "orbit_index": 243,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 370390,
+      "transition_count": 631471
+    },
+    {
+      "root_id": "orbit_243:repair_1",
+      "orbit_index": 243,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 350715,
+      "transition_count": 592893
+    },
+    {
+      "root_id": "orbit_246:repair_0",
+      "orbit_index": 246,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 102335,
+      "transition_count": 161658
+    },
+    {
+      "root_id": "orbit_246:repair_1",
+      "orbit_index": 246,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 98483,
+      "transition_count": 155862
+    },
+    {
+      "root_id": "orbit_248:repair_0",
+      "orbit_index": 248,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17122,
+      "transition_count": 28159
+    },
+    {
+      "root_id": "orbit_248:repair_1",
+      "orbit_index": 248,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 15776,
+      "transition_count": 26309
+    },
+    {
+      "root_id": "orbit_249:repair_0",
+      "orbit_index": 249,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 67307,
+      "transition_count": 109662
+    },
+    {
+      "root_id": "orbit_249:repair_1",
+      "orbit_index": 249,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 57451,
+      "transition_count": 87477
+    },
+    {
+      "root_id": "orbit_250:repair_0",
+      "orbit_index": 250,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4572,
+      "transition_count": 7862
+    },
+    {
+      "root_id": "orbit_250:repair_1",
+      "orbit_index": 250,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4028,
+      "transition_count": 7019
+    },
+    {
+      "root_id": "orbit_251:repair_0",
+      "orbit_index": 251,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 31463,
+      "transition_count": 50684
+    },
+    {
+      "root_id": "orbit_251:repair_1",
+      "orbit_index": 251,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 28142,
+      "transition_count": 43887
+    },
+    {
+      "root_id": "orbit_252:repair_0",
+      "orbit_index": 252,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 4572,
+      "transition_count": 8334
+    },
+    {
+      "root_id": "orbit_252:repair_1",
+      "orbit_index": 252,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 3924,
+      "transition_count": 7246
+    },
+    {
+      "root_id": "orbit_253:repair_0",
+      "orbit_index": 253,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 34203,
+      "transition_count": 55436
+    },
+    {
+      "root_id": "orbit_253:repair_1",
+      "orbit_index": 253,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 30290,
+      "transition_count": 47470
+    },
+    {
+      "root_id": "orbit_254:repair_0",
+      "orbit_index": 254,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 25547,
+      "transition_count": 42529
+    },
+    {
+      "root_id": "orbit_254:repair_1",
+      "orbit_index": 254,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 21728,
+      "transition_count": 36069
+    },
+    {
+      "root_id": "orbit_255:repair_0",
+      "orbit_index": 255,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 7416,
+      "transition_count": 13566
+    },
+    {
+      "root_id": "orbit_255:repair_1",
+      "orbit_index": 255,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 6315,
+      "transition_count": 11570
+    },
+    {
+      "root_id": "orbit_256:repair_0",
+      "orbit_index": 256,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 13367,
+      "transition_count": 26680
+    },
+    {
+      "root_id": "orbit_256:repair_1",
+      "orbit_index": 256,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 11598,
+      "transition_count": 22983
+    },
+    {
+      "root_id": "orbit_258:repair_0",
+      "orbit_index": 258,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 37027,
+      "transition_count": 66202
+    },
+    {
+      "root_id": "orbit_258:repair_1",
+      "orbit_index": 258,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 33819,
+      "transition_count": 59616
+    },
+    {
+      "root_id": "orbit_260:repair_0",
+      "orbit_index": 260,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 92229,
+      "transition_count": 149370
+    },
+    {
+      "root_id": "orbit_260:repair_1",
+      "orbit_index": 260,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 87808,
+      "transition_count": 140896
+    },
+    {
+      "root_id": "orbit_262:repair_0",
+      "orbit_index": 262,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 74055,
+      "transition_count": 112098
+    },
+    {
+      "root_id": "orbit_262:repair_1",
+      "orbit_index": 262,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 70211,
+      "transition_count": 106583
+    },
+    {
+      "root_id": "orbit_264:repair_0",
+      "orbit_index": 264,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 15814,
+      "transition_count": 26305
+    },
+    {
+      "root_id": "orbit_264:repair_1",
+      "orbit_index": 264,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 14640,
+      "transition_count": 24631
+    },
+    {
+      "root_id": "orbit_265:repair_0",
+      "orbit_index": 265,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17471,
+      "transition_count": 29829
+    },
+    {
+      "root_id": "orbit_265:repair_1",
+      "orbit_index": 265,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 14489,
+      "transition_count": 23902
+    },
+    {
+      "root_id": "orbit_266:repair_0",
+      "orbit_index": 266,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 25136,
+      "transition_count": 41986
+    },
+    {
+      "root_id": "orbit_266:repair_1",
+      "orbit_index": 266,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 23768,
+      "transition_count": 39984
+    },
+    {
+      "root_id": "orbit_267:repair_0",
+      "orbit_index": 267,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 6869,
+      "transition_count": 12315
+    },
+    {
+      "root_id": "orbit_267:repair_1",
+      "orbit_index": 267,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5996,
+      "transition_count": 10496
+    },
+    {
+      "root_id": "orbit_268:repair_0",
+      "orbit_index": 268,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 29143,
+      "transition_count": 45786
+    },
+    {
+      "root_id": "orbit_268:repair_1",
+      "orbit_index": 268,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 27500,
+      "transition_count": 43797
+    },
+    {
+      "root_id": "orbit_269:repair_0",
+      "orbit_index": 269,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 6475,
+      "transition_count": 11620
+    },
+    {
+      "root_id": "orbit_269:repair_1",
+      "orbit_index": 269,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 5515,
+      "transition_count": 9772
+    },
+    {
+      "root_id": "orbit_270:repair_0",
+      "orbit_index": 270,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 21450,
+      "transition_count": 35764
+    },
+    {
+      "root_id": "orbit_270:repair_1",
+      "orbit_index": 270,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 19712,
+      "transition_count": 33170
+    },
+    {
+      "root_id": "orbit_278:repair_0",
+      "orbit_index": 278,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 67445,
+      "transition_count": 108081
+    },
+    {
+      "root_id": "orbit_278:repair_1",
+      "orbit_index": 278,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 62870,
+      "transition_count": 100962
+    },
+    {
+      "root_id": "orbit_280:repair_0",
+      "orbit_index": 280,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 114288,
+      "transition_count": 195089
+    },
+    {
+      "root_id": "orbit_280:repair_1",
+      "orbit_index": 280,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 108836,
+      "transition_count": 185586
+    },
+    {
+      "root_id": "orbit_282:repair_0",
+      "orbit_index": 282,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 110324,
+      "transition_count": 180206
+    },
+    {
+      "root_id": "orbit_282:repair_1",
+      "orbit_index": 282,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 103698,
+      "transition_count": 171046
+    },
+    {
+      "root_id": "orbit_284:repair_0",
+      "orbit_index": 284,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 95895,
+      "transition_count": 154325
+    },
+    {
+      "root_id": "orbit_284:repair_1",
+      "orbit_index": 284,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 88978,
+      "transition_count": 144683
+    },
+    {
+      "root_id": "orbit_285:repair_0",
+      "orbit_index": 285,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 17683,
+      "transition_count": 28493
+    },
+    {
+      "root_id": "orbit_285:repair_1",
+      "orbit_index": 285,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 16017,
+      "transition_count": 25126
+    },
+    {
+      "root_id": "orbit_286:repair_0",
+      "orbit_index": 286,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 64015,
+      "transition_count": 105378
+    },
+    {
+      "root_id": "orbit_286:repair_1",
+      "orbit_index": 286,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 59095,
+      "transition_count": 97763
+    },
+    {
+      "root_id": "orbit_293:repair_0",
+      "orbit_index": 293,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 46508,
+      "transition_count": 83023
+    },
+    {
+      "root_id": "orbit_293:repair_1",
+      "orbit_index": 293,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 43103,
+      "transition_count": 76746
+    },
+    {
+      "root_id": "orbit_295:repair_0",
+      "orbit_index": 295,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 84856,
+      "transition_count": 145884
+    },
+    {
+      "root_id": "orbit_295:repair_1",
+      "orbit_index": 295,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 80037,
+      "transition_count": 136990
+    },
+    {
+      "root_id": "orbit_298:repair_0",
+      "orbit_index": 298,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 693229,
+      "transition_count": 1172112
+    },
+    {
+      "root_id": "orbit_298:repair_1",
+      "orbit_index": 298,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 650640,
+      "transition_count": 1104905
+    },
+    {
+      "root_id": "orbit_300:repair_0",
+      "orbit_index": 300,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 581924,
+      "transition_count": 959878
+    },
+    {
+      "root_id": "orbit_300:repair_1",
+      "orbit_index": 300,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 542085,
+      "transition_count": 901441
+    },
+    {
+      "root_id": "orbit_302:repair_0",
+      "orbit_index": 302,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_302:repair_1",
+      "orbit_index": 302,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_312:repair_0",
+      "orbit_index": 312,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 27522,
+      "transition_count": 53403
+    },
+    {
+      "root_id": "orbit_312:repair_1",
+      "orbit_index": 312,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 24160,
+      "transition_count": 46959
+    },
+    {
+      "root_id": "orbit_314:repair_0",
+      "orbit_index": 314,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 45982,
+      "transition_count": 82582
+    },
+    {
+      "root_id": "orbit_314:repair_1",
+      "orbit_index": 314,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "full_closure",
+      "reachable_state_count": 40433,
+      "transition_count": 72329
+    },
+    {
+      "root_id": "orbit_316:repair_0",
+      "orbit_index": 316,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_316:repair_1",
+      "orbit_index": 316,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_318:repair_0",
+      "orbit_index": 318,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_318:repair_1",
+      "orbit_index": 318,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_320:repair_0",
+      "orbit_index": 320,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_320:repair_1",
+      "orbit_index": 320,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_322:repair_0",
+      "orbit_index": 322,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_322:repair_1",
+      "orbit_index": 322,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_329:repair_0",
+      "orbit_index": 329,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_329:repair_1",
+      "orbit_index": 329,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_331:repair_0",
+      "orbit_index": 331,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_331:repair_1",
+      "orbit_index": 331,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_333:repair_0",
+      "orbit_index": 333,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_333:repair_1",
+      "orbit_index": 333,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_335:repair_0",
+      "orbit_index": 335,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_335:repair_1",
+      "orbit_index": 335,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_337:repair_0",
+      "orbit_index": 337,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_337:repair_1",
+      "orbit_index": 337,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_342:repair_0",
+      "orbit_index": 342,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_342:repair_1",
+      "orbit_index": 342,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_344:repair_0",
+      "orbit_index": 344,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_344:repair_1",
+      "orbit_index": 344,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_345:repair_0",
+      "orbit_index": 345,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_345:repair_1",
+      "orbit_index": 345,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_347:repair_0",
+      "orbit_index": 347,
+      "repair_index": 0,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    },
+    {
+      "root_id": "orbit_347:repair_1",
+      "orbit_index": 347,
+      "repair_index": 1,
+      "R_star": 4,
+      "method": "root_layer_shortcut",
+      "reachable_state_count": null,
+      "transition_count": null
+    }
+  ]
+}

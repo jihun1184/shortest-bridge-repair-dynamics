@@ -1,0 +1,18 @@
+{
+  "n_orbits": 76,
+  "n_pairs": 528,
+  "orbit_histogram": {
+    "0": 64,
+    "1": 6,
+    "2": 2,
+    "3": 4
+  },
+  "pair_histogram": {
+    "0": 468,
+    "1": 40,
+    "2": 8,
+    "3": 12
+  },
+  "max_depth": 3,
+  "method": "stored_plus_reaggregated_from_raw_per_orbit_records"
+}

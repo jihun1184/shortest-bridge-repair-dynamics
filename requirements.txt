@@ -1,0 +1,4 @@
+# Only the recovered Main-Theorem-A generator needs a third-party package.
+# The local-decision and finite-compatibility publication launchers use the
+# Python standard library only.
+networkx>=3.0,<4

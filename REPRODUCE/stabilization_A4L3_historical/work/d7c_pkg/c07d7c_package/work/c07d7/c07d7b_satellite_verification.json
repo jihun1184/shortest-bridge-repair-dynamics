@@ -1,0 +1,358 @@
+{
+  "audited_state_count": 25,
+  "all_19_depth2_states_audited": true,
+  "depth3_shell_boundary_states_audited": 6,
+  "all_depths_match": true,
+  "audits": [
+    {
+      "second_satellite": [
+        -5,
+        -1,
+        -1
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 3,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 119
+      }
+    },
+    {
+      "second_satellite": [
+        -6,
+        -1,
+        -1
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 3,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 171
+      }
+    },
+    {
+      "second_satellite": [
+        -6,
+        0,
+        0
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 20,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 277
+      }
+    },
+    {
+      "second_satellite": [
+        -5,
+        -2,
+        -1
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 6,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 206
+      }
+    },
+    {
+      "second_satellite": [
+        -5,
+        -1,
+        -2
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 6,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 305
+      }
+    },
+    {
+      "second_satellite": [
+        -4,
+        -3,
+        -1
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 3,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 238
+      }
+    },
+    {
+      "second_satellite": [
+        -4,
+        -1,
+        -3
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 3,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 793
+      }
+    },
+    {
+      "second_satellite": [
+        -7,
+        -1,
+        -1
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 3,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 234
+      }
+    },
+    {
+      "second_satellite": [
+        -7,
+        0,
+        0
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 20,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 404
+      }
+    },
+    {
+      "second_satellite": [
+        -6,
+        -2,
+        -1
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 9,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 305
+      }
+    },
+    {
+      "second_satellite": [
+        -6,
+        -1,
+        -2
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 9,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 548
+      }
+    },
+    {
+      "second_satellite": [
+        -6,
+        0,
+        1
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 60,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 985
+      }
+    },
+    {
+      "second_satellite": [
+        -5,
+        -3,
+        -1
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 9,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 366
+      }
+    },
+    {
+      "second_satellite": [
+        -5,
+        -2,
+        -2
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 18,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 771
+      }
+    },
+    {
+      "second_satellite": [
+        -5,
+        -1,
+        -3
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 9,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 1490
+      }
+    },
+    {
+      "second_satellite": [
+        -4,
+        -4,
+        -1
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 3,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 352
+      }
+    },
+    {
+      "second_satellite": [
+        -4,
+        -3,
+        -2
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 9,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 900
+      }
+    },
+    {
+      "second_satellite": [
+        -4,
+        -2,
+        -3
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 9,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 1911
+      }
+    },
+    {
+      "second_satellite": [
+        -4,
+        -1,
+        -4
+      ],
+      "census_depth": 2,
+      "full_sequence_depth": 2,
+      "full_sequence_shortest_plan_count": 3,
+      "planner_stats": {
+        "states_expanded": 3,
+        "transitions": 3161
+      }
+    },
+    {
+      "second_satellite": [
+        -6,
+        1,
+        0
+      ],
+      "census_depth": 3,
+      "full_sequence_depth": 3,
+      "full_sequence_shortest_plan_count": 1925,
+      "planner_stats": {
+        "states_expanded": 246,
+        "transitions": 6903
+      }
+    },
+    {
+      "second_satellite": [
+        2,
+        2,
+        -1
+      ],
+      "census_depth": 3,
+      "full_sequence_depth": 3,
+      "full_sequence_shortest_plan_count": 2064,
+      "planner_stats": {
+        "states_expanded": 220,
+        "transitions": 5763
+      }
+    },
+    {
+      "second_satellite": [
+        -7,
+        1,
+        0
+      ],
+      "census_depth": 3,
+      "full_sequence_depth": 3,
+      "full_sequence_shortest_plan_count": 2409,
+      "planner_stats": {
+        "states_expanded": 311,
+        "transitions": 10139
+      }
+    },
+    {
+      "second_satellite": [
+        3,
+        2,
+        -1
+      ],
+      "census_depth": 3,
+      "full_sequence_depth": 3,
+      "full_sequence_shortest_plan_count": 2723,
+      "planner_stats": {
+        "states_expanded": 279,
+        "transitions": 8951
+      }
+    },
+    {
+      "second_satellite": [
+        -7,
+        1,
+        -1
+      ],
+      "census_depth": 3,
+      "full_sequence_depth": 3,
+      "full_sequence_shortest_plan_count": 224,
+      "planner_stats": {
+        "states_expanded": 120,
+        "transitions": 2602
+      }
+    },
+    {
+      "second_satellite": [
+        3,
+        3,
+        -1
+      ],
+      "census_depth": 3,
+      "full_sequence_depth": 3,
+      "full_sequence_shortest_plan_count": 8919,
+      "planner_stats": {
+        "states_expanded": 753,
+        "transitions": 23542
+      }
+    }
+  ]
+}

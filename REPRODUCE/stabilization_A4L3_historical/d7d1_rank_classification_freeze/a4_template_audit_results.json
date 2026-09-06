@@ -1,0 +1,18 @@
+{
+  "closure_sizes": {
+    "6": 9524,
+    "7": 21963,
+    "8": 45939
+  },
+  "common_classes": 53,
+  "consistent_classes": 53,
+  "distinct_witnessed_signatures": 18,
+  "inconsistent_classes": 0,
+  "inconsistent_details": [],
+  "ks": [
+    6,
+    7,
+    8
+  ],
+  "method": "set-valued cut-equivalence; elbow-aware straight corridors; endpoint-anchored patch"
+}

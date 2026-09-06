@@ -1,0 +1,20 @@
+{
+  "family_state_count": 150,
+  "N1_successor_count": 300,
+  "classifier_correct": "150/150",
+  "raw_shortest_orderings_by_nontrivial_block_count": {
+    "1": 273921
+  },
+  "compatible_actions_by_nontrivial_block_count": {
+    "1": 109927
+  },
+  "maximal_absorbed_subset_identity_profile": {
+    "depth=2;rho=5;distinct_subsets=1": 19,
+    "depth=3;rho=3;distinct_subsets=3": 4,
+    "depth=3;rho=3;distinct_subsets=4": 19,
+    "depth=3;rho=3;distinct_subsets=5": 11,
+    "depth=3;rho=4;distinct_subsets=1": 39,
+    "depth=3;rho=4;distinct_subsets=2": 58
+  },
+  "conclusion": "Maximum rho suffices for the depth-2/depth-3 classifier in this fixed five-component family, but equal rho can correspond to different absorbed old-component subsets; the partition retains strictly more transition data."
+}

@@ -1,0 +1,51 @@
+{
+  "base_k": 9,
+  "claim_boundary": "Supports the parametric bridge-quotient and induction proof. Does not establish root reachability or all-k exhaustiveness.",
+  "comparison_k": 6,
+  "compatibility_front_min_x": -5,
+  "connected_action_support_min_x": -6,
+  "connected_endpoint_support_min_x": -7,
+  "connected_lift_front_min_x": -8,
+  "connected_states": 86780,
+  "distinct_rho_front_quotients": 32067,
+  "failures": {
+    "background_quotient_mismatches": [],
+    "connected_successor_digest_failures": [],
+    "fixed_successor_type_failures": [],
+    "front_nonfunctional": [],
+    "invalid_states": [],
+    "remote_action_support_violations": [],
+    "remote_endpoint_violations": []
+  },
+  "fixed_fixed_edges": 1024,
+  "frozen_c3_sha_matches": 22,
+  "isolated_behavioral_classes_by_component_layer": {
+    "2": 1,
+    "3": 7,
+    "4": 13,
+    "5": 1
+  },
+  "isolated_state_component_layers": {
+    "2": 517,
+    "3": 191,
+    "4": 28,
+    "5": 1
+  },
+  "isolated_states": 737,
+  "raw_action_counts": {
+    "6": {
+      "all": 9279,
+      "satellite": 8255
+    },
+    "9": {
+      "all": 35207,
+      "satellite": 34183
+    }
+  },
+  "satellite_absorbing_edges": 34183,
+  "satellite_active_front_occurrences": 7886,
+  "scope": "A4-L2a(ii) T12 bridge-quotient finite base certificate at k=9; closure union plus k=6/k=9 active-front comparison",
+  "t12_formal_classes": 22,
+  "union_action_edges": 148722,
+  "union_descendant_states": 87517
+}

@@ -1,0 +1,392 @@
+{
+  "method": "root-layer-only N2 action enumeration (no full closure)",
+  "orbit_indices": [
+    302,
+    316,
+    318,
+    320,
+    322,
+    329,
+    331,
+    333,
+    335,
+    337,
+    342,
+    344,
+    345,
+    347
+  ],
+  "root_count": 28,
+  "aggregate_root_layer_rho_histogram": {
+    "2": 9058,
+    "3": 10822,
+    "4": 5648
+  },
+  "aggregate_root_layer_N2_action_count": 25528,
+  "roots": [
+    {
+      "root_id": "orbit_302:repair_0",
+      "orbit_index": 302,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 2109,
+      "root_layer_rho_histogram": {
+        "2": 1482,
+        "3": 399,
+        "4": 228
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_302:repair_1",
+      "orbit_index": 302,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 2078,
+      "root_layer_rho_histogram": {
+        "2": 1482,
+        "3": 398,
+        "4": 198
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_316:repair_0",
+      "orbit_index": 316,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 2205,
+      "root_layer_rho_histogram": {
+        "2": 831,
+        "3": 1074,
+        "4": 300
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_316:repair_1",
+      "orbit_index": 316,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 2072,
+      "root_layer_rho_histogram": {
+        "2": 828,
+        "3": 1053,
+        "4": 191
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_318:repair_0",
+      "orbit_index": 318,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 2029,
+      "root_layer_rho_histogram": {
+        "2": 533,
+        "3": 906,
+        "4": 590
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_318:repair_1",
+      "orbit_index": 318,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 1857,
+      "root_layer_rho_histogram": {
+        "2": 532,
+        "3": 894,
+        "4": 431
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_320:repair_0",
+      "orbit_index": 320,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 1618,
+      "root_layer_rho_histogram": {
+        "2": 448,
+        "3": 688,
+        "4": 482
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_320:repair_1",
+      "orbit_index": 320,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 1512,
+      "root_layer_rho_histogram": {
+        "2": 448,
+        "3": 693,
+        "4": 371
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_322:repair_0",
+      "orbit_index": 322,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 889,
+      "root_layer_rho_histogram": {
+        "2": 442,
+        "3": 285,
+        "4": 162
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_322:repair_1",
+      "orbit_index": 322,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 866,
+      "root_layer_rho_histogram": {
+        "2": 442,
+        "3": 293,
+        "4": 131
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_329:repair_0",
+      "orbit_index": 329,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 132,
+      "root_layer_rho_histogram": {
+        "2": 49,
+        "3": 41,
+        "4": 42
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_329:repair_1",
+      "orbit_index": 329,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 108,
+      "root_layer_rho_histogram": {
+        "2": 45,
+        "3": 33,
+        "4": 30
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_331:repair_0",
+      "orbit_index": 331,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 122,
+      "root_layer_rho_histogram": {
+        "2": 50,
+        "3": 48,
+        "4": 24
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_331:repair_1",
+      "orbit_index": 331,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 90,
+      "root_layer_rho_histogram": {
+        "2": 48,
+        "3": 36,
+        "4": 6
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_333:repair_0",
+      "orbit_index": 333,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 1314,
+      "root_layer_rho_histogram": {
+        "2": 273,
+        "3": 661,
+        "4": 380
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_333:repair_1",
+      "orbit_index": 333,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 1122,
+      "root_layer_rho_histogram": {
+        "2": 271,
+        "3": 630,
+        "4": 221
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_335:repair_0",
+      "orbit_index": 335,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 1089,
+      "root_layer_rho_histogram": {
+        "2": 60,
+        "3": 541,
+        "4": 488
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_335:repair_1",
+      "orbit_index": 335,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 927,
+      "root_layer_rho_histogram": {
+        "2": 65,
+        "3": 536,
+        "4": 326
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_337:repair_0",
+      "orbit_index": 337,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 667,
+      "root_layer_rho_histogram": {
+        "2": 127,
+        "3": 316,
+        "4": 224
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_337:repair_1",
+      "orbit_index": 337,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 620,
+      "root_layer_rho_histogram": {
+        "2": 131,
+        "3": 328,
+        "4": 161
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_342:repair_0",
+      "orbit_index": 342,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 77,
+      "root_layer_rho_histogram": {
+        "2": 37,
+        "3": 24,
+        "4": 16
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_342:repair_1",
+      "orbit_index": 342,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 63,
+      "root_layer_rho_histogram": {
+        "2": 36,
+        "3": 17,
+        "4": 10
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_344:repair_0",
+      "orbit_index": 344,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 75,
+      "root_layer_rho_histogram": {
+        "2": 38,
+        "3": 29,
+        "4": 8
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_344:repair_1",
+      "orbit_index": 344,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 63,
+      "root_layer_rho_histogram": {
+        "2": 41,
+        "3": 20,
+        "4": 2
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_345:repair_0",
+      "orbit_index": 345,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 598,
+      "root_layer_rho_histogram": {
+        "2": 99,
+        "3": 265,
+        "4": 234
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_345:repair_1",
+      "orbit_index": 345,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 476,
+      "root_layer_rho_histogram": {
+        "2": 114,
+        "3": 239,
+        "4": 123
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_347:repair_0",
+      "orbit_index": 347,
+      "repair_index": 0,
+      "root_layer_N2_action_count": 398,
+      "root_layer_rho_histogram": {
+        "2": 45,
+        "3": 187,
+        "4": 166
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    },
+    {
+      "root_id": "orbit_347:repair_1",
+      "orbit_index": 347,
+      "repair_index": 1,
+      "root_layer_N2_action_count": 352,
+      "root_layer_rho_histogram": {
+        "2": 61,
+        "3": 188,
+        "4": 103
+      },
+      "root_layer_max_rho": 4,
+      "R_star_by_shortcut": 4
+    }
+  ]
+}

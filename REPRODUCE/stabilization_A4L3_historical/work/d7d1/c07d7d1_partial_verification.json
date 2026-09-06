@@ -1,0 +1,27 @@
+{
+  "checkpoint": "C07-D7D1 partial verification",
+  "status": "PASS",
+  "completed_roots": 234,
+  "completed_D7B_states": 117,
+  "uncomputed_roots": 28,
+  "uncomputed_D7B_states": 14,
+  "reachable_state_instances": 11987299,
+  "transition_instances": 20255841,
+  "R_star_histogram": {
+    "3": 12,
+    "4": 222
+  },
+  "persistent_R3_orbits": [
+    15,
+    79,
+    89,
+    197,
+    206,
+    207
+  ],
+  "largest_completed_root": {
+    "root_id": "orbit_298:repair_0",
+    "reachable_states": 693229,
+    "transitions": 1172112
+  }
+}

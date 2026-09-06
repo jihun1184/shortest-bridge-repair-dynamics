@@ -1,0 +1,87 @@
+{
+  "definitions": {
+    "obligation_recovery_horizon": "Minimum number of subsequent frozen atomic actions after a fixed initial N1 action until every genuine N2 certificate of the original state is viable between its current descendants.",
+    "residual_goal_depth": "Minimum number of subsequent frozen atomic actions after the fixed initial N1 action until Goal."
+  },
+  "audits": [
+    {
+      "first_N1": [
+        [
+          -1,
+          -1,
+          0
+        ]
+      ],
+      "original_certificate_count": 6,
+      "viable_immediately_after_N1": 5,
+      "one_action_continuations": 46,
+      "one_action_original_obligation_restorations": 43,
+      "obligation_recovery_horizon": 1,
+      "residual_goal_depth": 2,
+      "residual_shortest_plan_count": 245,
+      "residual_planner_stats": {
+        "states_expanded": 47,
+        "transitions": 560
+      },
+      "first_restoring_action": [
+        [
+          -4,
+          -1,
+          -1
+        ],
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "first_N1": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "original_certificate_count": 6,
+      "viable_immediately_after_N1": 5,
+      "one_action_continuations": 40,
+      "one_action_original_obligation_restorations": 37,
+      "obligation_recovery_horizon": 1,
+      "residual_goal_depth": 2,
+      "residual_shortest_plan_count": 164,
+      "residual_planner_stats": {
+        "states_expanded": 41,
+        "transitions": 470
+      },
+      "first_restoring_action": [
+        [
+          -4,
+          -1,
+          -1
+        ],
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          0
+        ]
+      ]
+    }
+  ],
+  "explicit_D6C_plan_after_second_action": {
+    "all_original_obligations_viable": true,
+    "goal": false
+  },
+  "conclusion": "For both initial N1 choices, obligation recovery horizon is one but residual goal depth is two. D6C therefore proves two-step residual goal planning, not a two-step delay in recovering the lost original obligation."
+}
