@@ -12,10 +12,7 @@ This test independently re-asserts, directly against the canonical
 (`37,058` classes, `117` buckets, `113`/`4` split, `36,765`/`293` class
 split), the predicted totals (`37,018` false / `40` true / `0` mismatch),
 the rule-table row count and its `constant_false`/`adjacency_saturation`
-split, and zero mismatch across all dynamic-branch source summaries. This
-script was executed in this environment; its output is archived in
-`run_log_test_b7_regression.txt` (`PASS: B7 full decision-rule integration
-37,058/37,058`).
+split, and zero mismatch across all dynamic-branch source summaries. The test re-asserts these quantities directly against the canonical finite-decision record.
 
 `b7_decision_core.py` contains the pure logic (`l1`,
 `frame_adjacency_saturated`, `saturated_pair_exists`) used to build the

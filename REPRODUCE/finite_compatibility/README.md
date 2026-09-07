@@ -1,15 +1,9 @@
 # Finite compatibility reproduction (Appendix B precursor)
 
-This is the DAM manuscript's own reproducibility package, fetched directly
-from its cited GitHub release and re-executed in this environment — not
-rebuilt or re-derived.
+This directory contains the code and reference data for the finite compatibility calculations.
 
 ## Provenance
 
-- Cited in `DAM_revised.zip / DAM_submission/manuscript.tex`,
-  "Data and code availability": `https://github.com/jihun1184/bounded-compatibility-depth-voxel-repair`,
-  release `v1.0.1`.
-- Fetched via `codeload.github.com` (tag `v1.0.1`) in this session.
 - Every file's SHA-256 was recomputed against the release's own
   `UPSTREAM_MANIFEST.json` (25/25 files matched) before any script was
   run.
@@ -17,10 +11,9 @@ rebuilt or re-derived.
   `LICENSE` are the release's own files, renamed only where needed to
   avoid clashing with this Supplement's own `README.md`.
 
-## What was actually done in this session (not just claimed)
+## Reproduction scripts
 
-All six claim-oriented scripts were executed here, from a clean checkout,
-with no modification:
+The following scripts reproduce the finite compatibility calculations:
 
 ```bash
 cd scripts
@@ -32,9 +25,7 @@ python3 section6_1_split.py
 python3 walk_counts.py
 ```
 
-Full console output is archived in `run_logs/console_output.txt`; the
-per-script JSON results are archived in `run_logs/*.json`. Every printed
-number matches the manuscript's stated claims exactly:
+The scripts reproduce the finite compatibility quantities summarized below:
 
 | Script | Result obtained here |
 |---|---|
@@ -59,5 +50,4 @@ Section 2, for the per-`L` breakdown.
 ## Requirements
 
 Python ≥3.9, standard library only (confirmed: ran under Python 3.12.3 in
-this environment with no installed dependencies beyond the standard
-library).
+the standard library).

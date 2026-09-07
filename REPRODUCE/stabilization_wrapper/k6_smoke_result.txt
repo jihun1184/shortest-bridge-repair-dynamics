@@ -1,2 +1,0 @@
-k=6: states=9524 rounds_history=[35, 51, 53, 53] final_exact_classes=53
-  anchor-signature groups that split into >1 exact class: 0 (out of 9524 anchor-signature groups)

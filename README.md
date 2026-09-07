@@ -86,8 +86,7 @@ All entries are expected to report `OK`.
 
 ## Relationship to Online Resource 1
 
-The original v1.0.1 repository mirrored the finite-data/verification content of the
-submission supplement.  Release v1.0.2 additionally restores the generation/enumeration source lineage
+The repository contains the finite data, verification tools, and publication-facing reproduction layer for the submission supplement.  Release v1.0.2 additionally restores the generation/enumeration source lineage
 under `REPRODUCE/` while preserving the published finite outputs and their
 verification scripts.
 
